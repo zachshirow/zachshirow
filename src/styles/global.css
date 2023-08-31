@@ -1,26 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 @layer base {
 	:root {
 		color-scheme: light;
 		--theme-bg: 250 250 250;
-		--theme-link: 86 124 119;
+		--theme-link: 139 108 239;
 		--theme-text: 34 39 42;
-		--theme-accent: 204 42 66;
+		--theme-accent: 139 108 239;
 		--theme-accent-2: 17 17 17;
-		--theme-quote: 204 42 66;
+		--theme-quote: 17 17 17;
 	}
 
 	:root.dark {
 		color-scheme: dark;
 		--theme-bg: 29 31 33;
-		--theme-link: 212 128 170;
+		--theme-link: 139 108 239;
 		--theme-text: 201 202 204;
-		--theme-accent: 43 188 137;
+		--theme-accent: 139 108 239;
 		--theme-accent-2: 238 238 238;
-		--theme-quote: 204 255 182;
+		--theme-quote: 238 238 238;
 	}
 
 	html {
@@ -28,6 +31,35 @@
 	}
 
 	html body {
-		@apply mx-auto flex h-full max-w-3xl flex-col bg-bgColor px-8 pt-16 font-mono text-sm font-normal text-textColor antialiased;
+		@apply mx-auto flex h-full max-w-3xl flex-col bg-bgColor px-8 pt-16 text-xl text-textColor antialiased;
+		font-family: 'IBM Plex Sans Arabic', sans-serif;
+		direction: rtl;
+	}
+
+	#main-header, #main-footer, pre, code, code span {
+		direction: ltr;
+	}
+
+	blockquote {
+		padding-right: 10px;
+	}
+	
+	.callout-title p, .callout-title span, .callout-title svg {
+		display: inline; 
+	}
+
+	article a[href^="http"]::after,
+	article a[href^="https://"]::after
+	{
+		content: "";
+		width: 11px;
+		height: 11px;
+		margin-right: 4px;
+		background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+		transform: scaleX(-1);
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: contain;
+		display: inline-block;
 	}
 }

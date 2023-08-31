@@ -5,13 +5,25 @@ import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
 import remarkUnwrapImages from "remark-unwrap-images";
 import { remarkReadingTime } from "./src/utils/remark-reading-time.mjs";
+import wikiLinkPlugin from "@portaljs/remark-wiki-link";
+import remarkCallout from "remark-callout";
+
+const pageUrlPathPrefix = "posts/";
 
 // https://astro.build/config
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
 	site: "https://astro-theme-cactus.netlify.app/",
 	markdown: {
-		remarkPlugins: [remarkUnwrapImages, remarkReadingTime],
+		remarkPlugins: [
+			remarkCallout,
+			remarkUnwrapImages,
+			[
+				wikiLinkPlugin,
+				{ pathFormat: "obsidian-absolute", wikiLinkResolver: (slug) => [pageUrlPathPrefix + slug] },
+			],
+			remarkReadingTime,
+		],
 		remarkRehype: { footnoteLabelProperties: { className: [""] } },
 		shikiConfig: {
 			theme: "dracula",

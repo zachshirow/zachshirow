@@ -13,7 +13,7 @@ const meta = {
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">Tags</h1>
+	<h1 class="title mb-6">تگ ها</h1>
 	<ul class="space-y-4">
 		{
 			Object.entries(allTags).map(([tag, val]) => (
@@ -21,13 +21,13 @@ const meta = {
 					<a
 						class="cactus-link inline-block"
 						href={`/tags/${tag}/`}
-						title={`View posts with the tag: ${tag}`}
+						title={`نمایش پست ها با تگ: ${tag}`}
 						rel="prefetch"
 					>
 						&#35;{tag}
 					</a>
 					<span class="inline-block">
-						- {val} Post{val > 1 && "s"}
+						- {val} پست
 					</span>
 				</li>
 			))

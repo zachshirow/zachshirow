@@ -9,32 +9,42 @@ const socialLinks = [
 	{
 		name: "mdi:github",
 		friendlyName: "Github",
-		link: "https://github.com/chrismwilliams/astro-cactus",
+		link: "https://github.com/zachshirow",
 	},
 	{
-		name: "mdi:mastodon",
-		friendlyName: "Mastodon",
-		link: "https://github.com/chrismwilliams/astro-cactus",
+		name: "mdi:instagram",
+		friendlyName: "Instagram",
+		link: "https://instagram.com/zachshirow",
+	},
+	{
+		name: "mdi:twitter",
+		friendlyName: "Twitter",
+		link: "https://twitter.com/zachshirow",
 	},
 	{
 		name: "mdi:linkedin",
 		friendlyName: "LinkedIn",
-		link: "https://github.com/chrismwilliams/astro-cactus",
+		link: "https://www.linkedin.com/in/zachshirow",
+	},
+	{
+		name: "mdi:youtube",
+		friendlyName: "Aparat",
+		link: "https://www.aparat.com/zachshirow_ir",
 	},
 	{
 		name: "mdi:email",
 		friendlyName: "Email",
-		link: "https://github.com/chrismwilliams/astro-cactus",
+		link: "mailto:zachshirow@gmail.com",
 	},
 ];
 ---
 
 <div class="flex flex-wrap items-end gap-x-4">
-	<p>Find me on</p>
+	<p>شبکه های اجتماعی</p>
 	<ul class="flex flex-1 items-center gap-x-2 sm:flex-initial">
 		{
 			socialLinks.map(({ link, name, friendlyName }) => (
-				<li class="flex">
+				<li class="flex social-link">
 					<a
 						class="inline-block p-1 sm:hover:text-link"
 						href={link}

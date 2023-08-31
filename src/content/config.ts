@@ -11,6 +11,7 @@ const post = defineCollection({
 	type: "content",
 	schema: ({ image }) =>
 		z.object({
+			draft: z.boolean().default(true),
 			title: z.string().max(60),
 			description: z.string().min(50).max(160),
 			publishDate: z
@@ -19,6 +20,7 @@ const post = defineCollection({
 				.transform((val) => new Date(val)),
 			updatedDate: z
 				.string()
+				.or(z.date())
 				.optional()
 				.transform((str) => (str ? new Date(str) : undefined)),
 			coverImage: z

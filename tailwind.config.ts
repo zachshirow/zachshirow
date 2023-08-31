@@ -64,8 +64,23 @@ export default {
 							border: "1px dotted #666",
 							borderRadius: "2px",
 						},
+						p: {
+							"&::before": {
+								content: "none !important",
+							},
+							"&::after": {
+								content: "none !important",
+							},
+						},
 						blockquote: {
+							borderRightWidth: "3px",
 							borderLeftWidth: "0",
+							marginRight: "5px",
+							// background: "#ececec",
+							// padding: "5px",
+							// paddinglLeft: "20px",
+							// paddingRight: "20px",
+							// borderRadius: "5px",
 						},
 						hr: {
 							borderTopStyle: "dashed",

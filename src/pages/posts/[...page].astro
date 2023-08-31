@@ -22,8 +22,8 @@ interface Props {
 const { page, uniqueTags } = Astro.props;
 
 const meta = {
-	title: "Posts",
-	description: "A collection of posts by me for an Asto starter theme",
+	title: "پست ها",
+	description: "مجموعه ای از پست های من - زکریا شیرمحمدلی",
 };
 
 const paginationProps = {
@@ -43,7 +43,7 @@ const paginationProps = {
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">Posts</h1>
+	<h1 class="title mb-6">پست ها</h1>
 	<div class="grid gap-y-16 sm:grid-cols-[3fr_1fr] sm:gap-x-8">
 		<section aria-label="Blog post list">
 			<ul class="space-y-8 text-start">
@@ -59,7 +59,7 @@ const paginationProps = {
 		</section>
 		{
 			!!uniqueTags.length && (
-				<aside>
+				<aside class="text-sm">
 					<h2 class="mb-4 flex items-center text-lg font-semibold">
 						<svg
 							aria-hidden="true"
@@ -77,7 +77,7 @@ const paginationProps = {
 							<path d="M17.573 18.407l2.834 -2.834a2.025 2.025 0 0 0 0 -2.864l-7.117 -7.116" />
 							<path d="M6 9h-.01" />
 						</svg>
-						Tags
+						تگ ها
 					</h2>
 					<ul class="flex flex-wrap gap-2 text-bgColor">
 						{uniqueTags.map((tag) => (
@@ -85,16 +85,16 @@ const paginationProps = {
 								<a
 									class="flex items-center justify-center rounded-lg bg-accent p-1"
 									href={`/tags/${tag}/`}
-									aria-label={`View all posts with the tag: ${tag}`}
+									aria-label={`مشاهده همه پست ها با تگ: ${tag}`}
 								>
 									{tag}
 								</a>
 							</li>
 						))}
 					</ul>
-					<span class="mt-4 block sm:text-end">
+					<span class="mt-4 block sm:text-start">
 						<a class="sm:hover:text-accent" href="/tags/" aria-label="View all blog categories">
-							View all →
+							مشاهده همه ←
 						</a>
 					</span>
 				</aside>

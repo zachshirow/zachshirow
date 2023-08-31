@@ -29,21 +29,21 @@ const { page } = Astro.props;
 const { tag } = Astro.params;
 
 const meta = {
-	title: `Tag: ${tag}`,
-	description: `View all posts with the tag - ${tag}`,
+	title: `تگ: ${tag}`,
+	description: `همه پست هایی که تگ - ${tag} را مشاهده کنید.`,
 };
 
 const paginationProps = {
 	...(page.url.prev && {
 		prevUrl: {
 			url: page.url.prev,
-			text: `← Previous Tags`,
+			text: `← تگ های قبلی`,
 		},
 	}),
 	...(page.url.next && {
 		nextUrl: {
 			url: page.url.next,
-			text: `Next Tags →`,
+			text: `تگ های بعدی →`,
 		},
 	}),
 };
@@ -51,8 +51,8 @@ const paginationProps = {
 
 <PageLayout meta={meta}>
 	<h1 class="title mb-6 flex items-center">
-		<a href="/tags/" class="text-accent sm:hover:underline">Tags</a>
-		<span class="me-3 ms-2">→</span>
+		<a href="/tags/" class="text-accent sm:hover:underline">تگ ها</a>
+		<span class="me-3 ms-2">←</span>
 		<span class="text-xl">#{tag}</span>
 	</h1>
 	<section aria-label="Blog post list">

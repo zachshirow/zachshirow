@@ -1,15 +1,29 @@
 ---
-title: "My Second Post"
-publishDate: "12 June 2022"
-description: "Another example post for Astro Cactus, this time written in a plain markdown file"
-tags: ["example", "blog"]
+draft: false
+title: "دومین پستی که نوشتم و به پست اولی مرتبطه"
+alias: 
+description: "دومین پستی که نوشتم و به پست اولی مرتبطه. دومین پستی که نوشتم و به پست اولی مرتبطه. دومین پستی که نوشتم و به پست اولی مرتبطه"
+publishDate: "31 Aug 2023"
+updatedDate: "10 Sep 2023"
+ogImage: ""
+# coverImage:
+  # src: ""
+  # alt: ""
+tags: 
+- بلاگ
+- آموزش زبان انگلیسی
 ---
 
-## This is a post made with Markdown
 
-```js
-// Example JavaScript
-function returnSeven() {
-	return 7;
-}
-```
+این پست به پست قبلی مرتبط هست. با لینک زیر میتونید به اون پست برید: 
+
+[[notion-to-obsidian]]
+
+[[notion-to-obsidian|چرا به عنوان یک ایرانی از نوشن به ابسیدین کوچ کردم؟]]
+## این یک هدینگ است پسرم. 
+
+هه. 
+
+
+
+

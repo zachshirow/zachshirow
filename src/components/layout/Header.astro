@@ -2,6 +2,8 @@
 import ThemeToggle from "../ThemeToggle.astro";
 import Search from "../Search.astro";
 import { menuLinks } from "@/site-config";
+import zachshirowLogo from "../../assets/zachshirow.png"
+import { Image } from "astro:assets";
 
 const url = new URL(Astro.request.url);
 ---
@@ -29,7 +31,10 @@ const url = new URL(Astro.request.url);
 			class="inline-flex items-center grayscale hover:filter-none sm:relative sm:inline-block"
 			aria-current={url.pathname === "/" ? "page" : false}
 		>
-			<svg
+			
+		<Image class="pe-3 h-14 w-auto sm:absolute sm:start-[-4.5rem] sm:me-0 " src={zachshirowLogo} alt="Zachshirow زکریا شیرمحمدلی" />
+
+		<!-- <svg
 				class="me-3 h-10 w-6 sm:absolute sm:start-[-4.5rem] sm:me-0 sm:h-20 sm:w-12"
 				aria-hidden="true"
 				focusable="false"
@@ -48,8 +53,8 @@ const url = new URL(Astro.request.url);
 					d="m136 53.333 45.333-26.666v120L226.667 120V80L272 53.333V160l-90.667 53.333v240L136 480V306.667L45.334 360V240l45.333-26.667v53.334L136 240V53.333Z"
 					fill="#53C68C"></path>
 				<path d="M45.334 240 0 213.334v120L45.334 360V240Z" fill="#B04304"></path>
-			</svg>
-			<span class="text-xl font-bold sm:text-2xl">Astro Cactus</span>
+			</svg> -->
+			<span class="text-base font-bold sm:text-2xl">زکریا شیرمحمدلی <span class="text-xs">(Zachshirow)</span> </span>
 		</a>
 		<nav
 			id="navigation-menu"

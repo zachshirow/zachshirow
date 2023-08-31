@@ -1,22 +1,19 @@
 ---
-import type { CollectionEntry } from "astro:content";
-
 import BaseLayout from "./Base.astro";
-import BlogHero from "@/components/blog/Hero";
+import type { SiteMeta } from "@/data/types";
+import { siteConfig } from "@/site-config";
+import { Image } from "astro:assets";
 
 interface Props {
-	post: CollectionEntry<"post">;
+	meta: SiteMeta;
 }
 
-const { post } = Astro.props;
 const {
-	data: { title, description, ogImage, publishDate, updatedDate },
-	// slug,
-} = post;
-// const socialImage = ogImage ?? `/og-image/${slug}.png`;
-const socialImage = ogImage
-const articleDate = updatedDate?.toISOString() ?? publishDate.toISOString();
-const { headings } = await post.render();
+	frontmatter: { title, description = siteConfig.description, ogImage, coverImage, updatedDate, publishDate }
+} = Astro.props;
+
+const articleDate = updatedDate ?? publishDate;
+
 ---
 
 <script>
@@ -38,55 +35,23 @@ const { headings } = await post.render();
 	observer.observe(targetHeader);
 </script>
 
-<BaseLayout meta={{ title, description, articleDate, ogImage: socialImage }}>
+<BaseLayout meta={{ title, description, articleDate, ogImage }}>
 	<div class="gap-x-10 lg:flex lg:items-start">
-		{
-			!!headings.length && (
-				<aside class="lg:sticky top-20 order-2 -me-32 basis-64 hidden lg:block">
-					<h2 class="font-semibold">فهرست مطالب</h2>
-					<ul class="mt-4 text-xs">
-						{headings.map(({ depth, slug, text }) => (
-							<li class="line-clamp-2 hover:text-accent">
-								<a
-									class={`block ${depth <= 2 ? "mt-3" : "mt-2 ps-3 text-[0.6875rem]"}`}
-									href={`#${slug}`}
-									aria-label={`Scroll to section: ${text}`}
-								>
-									<span class="me-1">{"#".repeat(depth)}</span>
-									{text}
-								</a>
-							</li>
-						))}
-					</ul>
-				</aside>
-			)
-		}
 		<article class="flex-grow break-words" data-pagefind-body>
-			<div id="blog-hero" class="mb-5"><BlogHero content={post} /></div>
-			
+			<h1 class="title mb-5 sm:mb-3 text-4xl">{title}</h1>
 			{
-				!!headings.length && (
-					<aside class="order-2 basis-64 block lg:hidden">
-						<h2 class="font-semibold">فهرست مطالب</h2>
-						<ul class="mt-4 text-xs">
-							{headings.map(({ depth, slug, text }) => (
-								<li class="line-clamp-2 hover:text-accent">
-									<a
-										class={`block ${depth <= 2 ? "mt-3" : "mt-2 ps-3 text-[0.6875rem]"}`}
-										href={`#${slug}`}
-										aria-label={`Scroll to section: ${text}`}
-									>
-										<span class="me-1">{"#".repeat(depth)}</span>
-										{text}
-									</a>
-								</li>
-							))}
-						</ul>
-					</aside>
+				coverImage && (
+					<div class="aspect-h-9 aspect-w-16 mb-6">
+						<Image
+							src={coverImage.src}
+							alt={coverImage.alt}
+							class="object-cover"
+							loading="eager"
+							fetchpriority="high"
+						/>
+					</div>
 				)
 			}
-
-			
 			<div
 				class="prose prose-lg prose-cactus mt-12 prose-headings:font-semibold prose-headings:before:absolute prose-headings:before:-ms-7 prose-headings:before:text-accent prose-headings:before:content-['#'] prose-th:before:content-none"
 			>

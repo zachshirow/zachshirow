@@ -11,64 +11,66 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 
 const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 	{
-		title: "Astro",
-		desc: "Build fast websites, faster.",
-		href: "https://astro.build",
+		title: "آموزش زبان انگلیسی",
+		desc: "به عنوان معلم انگلیسی از تجربیات خودم در زمینه یادگیری زبان انگلیسی میگم. ",
+		href: "teaching-english",
 	},
 	{
-		title: "Astro Assets",
-		desc: "Built-in optimized asset support.",
-		href: "https://docs.astro.build/en/guides/assets/",
+		title: "طراحی گرافیک",
+		desc: "مطالب آموزشی در خصوص اینکه طراح گرافیک موفقی بشید رو باهاتون به اشتراک میذارم.",
+		href: "/graphic-design",
 	},
 	{
-		title: "Tailwind CSS",
-		desc: "Rapidly build modern websites without ever leaving your HTML.",
-		href: "https://tailwindcss.com",
+		title: "برنامه نویسی فرانت اند",
+		desc: "تجربه هایی که در خصوص برنامه نویسی فرانت اند دارم رو باهاتون به اشتراک میذارم تا یاد بگیرید حضور آنلاین خودتون رو به بهترین شکل بسازید.",
+		href: "/front-end",
 	},
 	{
-		title: "Markdown",
-		desc: "Simple and easy-to-use markup language.",
-		href: "https://www.markdownguide.org/",
+		title: "بلینکیست فارسی",
+		desc: "ترجمه فارسی مطالب بلینکیست که در واقع چکیده کتاب های مطرح جهان هست رو باهاتون به اشتراک میگذارم.",
+		href: "/blinkist-farsi",
 	},
 	{
-		title: "MDX",
-		desc: "Markdown for the component era.",
-		href: "https://mdxjs.com/",
+		title: "مینیمالیسم",
+		desc: "یکی از اصل هایی هست که توی زندگی ازش پیروی می کنم و میخوام در موردش حرف بزنم.",
+		href: "/minimalism",
 	},
 	{
-		title: "Satori",
-		desc: "Generating png Open Graph images for blog posts.",
-		href: "https://github.com/vercel/satori",
+		title: "Obsidian",
+		desc: "بهتون یاد میدم که چطور با ابسیدین سیستم هایی بسازید که زندگیتون رو باهاش مدیریت کنید.",
+		href: "/obsidian",
 	},
 	{
-		title: "Pagefind",
-		desc: "A fully static search library.",
-		href: "https://pagefind.app/",
+		title: "Notion",
+		desc: "بهتون یاد میدم که چطور با نوشن سیستم هایی بسازید که باهاش زندگی و کسب و کار خودتون رو با کمک دیگران مدیریت کنید.",
+		href: "/notion",
 	},
 	{
-		title: "Astro Icon",
-		desc: "An easy to use Icon component for Astro.",
-		href: "https://github.com/natemoo-re/astro-icon#readme",
+		title: "Baserow",
+		desc: "بهتون یاد میدم که دیتابیس تون داخل نرم افزار Baserow رو ایجاد کنید و ازش تو درست کردن سیستم ها استفاده کنید.",
+		href: "/baserow",
 	},
 ];
 ---
 
-<PageLayout meta={{ title: "Home" }}>
+<PageLayout meta={{ title: "خانه" }}>
 	<section>
-		<h1 class="title mb-6">Hello World!</h1>
+		<h1 class="title mb-5 sm:mb-3 text-4xl">سلام، مخلصم!</h1>
 		<p class="mb-4">
-			Hi, I’m a theme for Astro, an example of how you can use this starter to create a personal
-			blog. If you want to know more about how you can customise me, add more posts, and make it
-			your own, click on one the github icon link below which will take you to my repo.
+			سلام، اسم من <a href="/about" class="cactus-link" alt="زکریا شیرمحمدلی" target="_blank">زکریا شیرمحمدلی</a> هست و یک معلم زبان انگلیسی در شهر زیبای گنبد کاووس استان گلستان می باشم. خیلی به نوشتن در مورد موضوعاتی که مربوط به آموزش زبان انگلیسی، طراحی گرافیک، زندگی فریلنسری و ابزار های بهره وری علاقه دارم.
 		</p>
+		<p>توی شبکه های اجتماعی مختلفی می تونید من رو دنبال کنید. کانال تلگرامی البته اصلی ترین جایی خواهد بود که مطالب جدید رو منتشر می کنم.</p>
+		<br />
+		<p><a href="https://t.me/zachshirow_ir" class="cactus-link" alt="کانال زکریا شیرمحمدلی" target="_blank">کانال تلگرامی من</a> </p>
+		<br />
 		<SocialList />
 	</section>
 	<section aria-label="Blog post list" class="mt-16">
-		<h2 class="title mb-4 text-xl">Posts</h2>
+		<h2 class="title mb-4 text-xl">پست ها</h2>
 		<ul class="space-y-4 sm:space-y-2">
 			{
 				allPostsByDate.map((p) => (
-					<li class="flex flex-col gap-x-2 sm:flex-row">
+					<li class="flex flex-col gap-x-5 sm:flex-row">
 						<PostPreview post={p} />
 					</li>
 				))
@@ -76,8 +78,9 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 		</ul>
 	</section>
 	<section class="mt-16">
-		<h2 class="title mb-4 text-xl">Technologies</h2>
-		<ul class="space-y-4 sm:space-y-2">
+		<h2 class="title mb-4 text-xl">موضوعات</h2>
+		<p>موضوعاتی که در موردشون صحبت می کنم از این قرار هست:</p>
+		<ul class=" my-6 space-y-4 sm:space-y-2">
 			{
 				cactusTech.map(({ href, title, desc }) => (
 					<li>
@@ -85,7 +88,7 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 							href={href}
 							target="_blank"
 							rel="noopener noreferrer"
-							class="cactus-link inline-block"
+							class="cactus-link inline-block text-violet-500"
 						>
 							{title}
 						</a>: 
