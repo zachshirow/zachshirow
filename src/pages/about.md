@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/Page.astro"
-title: "درباره من - زکریا شیرمحمدلی"
+title: "درباره من"
 alias: "درباره من"
 publishDate: 2023-08-30
 updatedDate: 2023-08-30

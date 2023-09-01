@@ -13,7 +13,7 @@ const pageUrlPathPrefix = "posts/";
 // https://astro.build/config
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
-	site: "https://astro-theme-cactus.netlify.app/",
+	site: "https://zachshirow.ir/",
 	markdown: {
 		remarkPlugins: [
 			remarkCallout,
@@ -34,6 +34,7 @@ export default defineConfig({
 		assets: true,
 	},
 	image: {
+		domains: ["https://storage.iran.liara.space/"],
 		// https://docs.astro.build/en/guides/assets/#using-sharp
 		service: sharpImageService(),
 	},

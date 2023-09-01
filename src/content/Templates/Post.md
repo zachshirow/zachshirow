@@ -3,8 +3,8 @@ draft: true
 title: ""
 alias: 
 description: ""
-publishDate: 
-updatedDate: 
+publishDate: {{date}}
+updatedDate: {{date}}
 ogImage: ""
 # coverImage:
   # src: ""
@@ -16,9 +16,9 @@ tags:
 - برنامه نویسی فرانت اند
 - بلینکیست فارسی
 - مینیمالیسم
-- ابسیدین
-- نوشن
-- بیس رو
+- obsidian
+- notion
+- baserow
 ---
 
 

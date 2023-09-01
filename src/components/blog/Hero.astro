@@ -1,5 +1,5 @@
 ---
-import { Image } from "astro:assets";
+// import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import FormattedDate from "../FormattedDate.astro";
 
@@ -20,8 +20,8 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 
 {
 	data.coverImage && (
-		<div class="aspect-h-9 aspect-w-16 mb-6">
-			<Image
+		<div class="aspect-h-3 aspect-w-4 mb-6">
+			<img
 				src={data.coverImage.src}
 				alt={data.coverImage.alt}
 				class="object-cover"
