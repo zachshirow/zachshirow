@@ -18,19 +18,8 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 };
 ---
 
-{
-	data.coverImage && (
-		<div class="aspect-h-3 aspect-w-4 mb-6">
-			<img
-				src={data.coverImage.src}
-				alt={data.coverImage.alt}
-				class="object-cover"
-				loading="eager"
-				fetchpriority="high"
-			/>
-		</div>
-	)
-}
+<section>
+	
 <h1 class="title mb-5 sm:mb-3 text-4xl">{data.title}</h1>
 <div class="flex flex-wrap items-center gap-x-3 gap-y-2">
 	<p class="text-sm">
@@ -82,4 +71,21 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 		</div>
 	)
 }
+
+{
+	data.coverImage && (
+		<div class="aspect-h-3 aspect-w-4 my-6">
+			<img
+				src={data.coverImage.src}
+				alt={data.coverImage.alt}
+				class="object-cover"
+				loading="eager"
+				fetchpriority="high"
+			/>
+		</div>
+	)
+}
+
 <p class="mt-12">{data.description}</p>
+</section>
+

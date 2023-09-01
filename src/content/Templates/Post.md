@@ -1,6 +1,6 @@
 ---
 draft: true
-title: ""
+title: 
 alias: 
 description: ""
 publishDate: {{date}}
@@ -11,6 +11,7 @@ ogImage: ""
   # alt: ""
 tags: 
 - بلاگ
+- فریلنسری
 - آموزش زبان انگلیسی
 - طراحی گرافیک
 - برنامه نویسی فرانت اند

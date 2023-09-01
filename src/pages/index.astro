@@ -58,11 +58,11 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 		<article>
 			<h1 class="title mb-5 sm:mb-3 text-4xl">سلام!</h1>
 			<p class="mb-4">
-				اسم من <a href="/about" class="cactus-link" alt="زکریا شیرمحمدلی" target="_blank">زکریا شیرمحمدلی</a> هست و یک معلم زبان انگلیسی در شهر زیبای گنبد کاووس استان گلستان می باشم. این وبسایت شخصی من هست و توی اون مطالبی مربوط به آموزش زبان انگلیسی، طراحی گرافیک، زندگی فریلنسری و ابزار های بهره وری منتشر می کنم. 
+				اسم من <a href="/about" class="cactus-link" title="زکریا شیرمحمدلی" target="_blank">زکریا شیرمحمدلی</a> هست و یک معلم زبان انگلیسی در شهر زیبای گنبد کاووس استان گلستان می باشم. این وبسایت شخصی من هست و توی اون مطالبی مربوط به آموزش زبان انگلیسی، طراحی گرافیک، زندگی فریلنسری و ابزار های بهره وری منتشر می کنم. 
 			</p>
 			<p>توی شبکه های اجتماعی مختلفی می تونید من رو دنبال کنید. کانال تلگرامی البته اصلی ترین جایی خواهد بود که مطالب جدید رو منتشر می کنم.</p>
 			<br />
-				<p><a href="https://t.me/zachshirow_ir" class="cactus-link" alt="کانال زکریا شیرمحمدلی" target="_blank">کانال تلگرامی من</a> </p>
+				<p><a href="https://t.me/zachshirow_ir" class="cactus-link text-accent" title="کانال زکریا شیرمحمدلی" target="_blank">کانال تلگرامی من</a> </p>
 			<br />
 		</article>
 		<SocialList />
@@ -78,6 +78,9 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 				))
 			}
 		</ul>
+		<p class="mt-10 text-accent">
+			<a href="/posts" class="cactus-link" title="همه پست ها">همه پست ها ←</a>
+		</p>
 	</section>
 	<section class="mt-16">
 		<h2 class="title mb-4 text-xl">موضوعات</h2>
@@ -90,7 +93,7 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 							href={href}
 							target="_blank"
 							rel="noopener noreferrer"
-							class="cactus-link inline-block text-violet-500"
+							class="cactus-link inline-block text-accent"
 						>
 							{title}
 						</a>: 

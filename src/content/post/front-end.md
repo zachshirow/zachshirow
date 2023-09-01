@@ -5,13 +5,12 @@ description: "تجربه هایی که در خصوص برنامه نویسی ف�
 publishDate: 2023-09-01
 updatedDate: 2023-09-01
 ogImage: ""
-# coverImage: 
-  # src: ""
-  # alt: ""
+coverImage: 
+  src: "https://zachshirow.storage.iran.liara.space/Posts/social-card.jpg"
+  alt: "Social image in frontend"
 tags: 
 - بلاگ
 - برنامه نویسی فرانت اند
 ---
-
 
 

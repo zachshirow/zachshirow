@@ -4,7 +4,7 @@ title: "وقتی کارفرما بعد از تحویل فایل پروژه رو 
 alias: وقتی کارفرما بعد از تحویل فایل پروژه رو ازم گرفت چیکار کردم؟
 description: "بعد از اتمام پروژه و تحویل فایل به کارفرما، پروژه من از سمت ایشون لغو شد!! اینجا می تونید بخوانید بعد از این اتفاق چیکار کردم..."
 publishDate: 2023-01-01
-updatedDate: 2023-09-01
+updatedDate: 2023-01-01
 # ogImage: "./images/Client-Deleted-Project.jpg"
 ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Client%20Deleted%20Project.jpg"
 coverImage:
@@ -12,6 +12,7 @@ coverImage:
   alt: "وقتی کارفرما بعد از تحویل فایل پروژه رو ازم گرفت چیکار کردم؟"
 tags: 
 - بلاگ
+- فریلنسری
 - طراحی گرافیک
 ---
 
