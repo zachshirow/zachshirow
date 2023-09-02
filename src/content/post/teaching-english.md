@@ -2,8 +2,8 @@
 title: "آموزش زبان انگلیسی"
 alias: زبان انگلیسی , معلمی
 description: "به عنوان معلم انگلیسی از تجربیات خودم در زمینه یادگیری زبان انگلیسی میگم."
-publishDate: 2023-09-01
-updatedDate: 2023-09-01
+publishDate: 2023-01-01
+updatedDate: 2023-01-01
 ogImage: ""
 # coverImage: 
   # src: ""

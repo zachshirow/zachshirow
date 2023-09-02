@@ -2,8 +2,8 @@
 title: "بلینکیست فارسی"
 alias: بلینکیست فارسی
 description: "ترجمه فارسی مطالب بلینکیست که در واقع چکیده کتاب های مطرح جهان هست رو باهاتون به اشتراک میگذارم."
-publishDate: 2023-09-01
-updatedDate: 2023-09-01
+publishDate: 2023-07-01
+updatedDate: 2023-07-01
 ogImage: "https://zachshirow.storage.iran.liara.space/Posts/blinkist-fars.jpg"
 coverImage: 
   src: "https://zachshirow.storage.iran.liara.space/Posts/blinkist-fars.jpg"

@@ -3,8 +3,8 @@ draft: true
 title: "وقتی کارفرما بعد از تحویل فایل پروژه رو ازم گرفت چیکار کردم؟"
 alias: وقتی کارفرما بعد از تحویل فایل پروژه رو ازم گرفت چیکار کردم؟
 description: "بعد از اتمام پروژه و تحویل فایل به کارفرما، پروژه من از سمت ایشون لغو شد!! اینجا می تونید بخوانید بعد از این اتفاق چیکار کردم..."
-publishDate: 2023-01-01
-updatedDate: 2023-01-01
+publishDate: 2023-02-05
+updatedDate: 2023-02-05
 # ogImage: "./images/Client-Deleted-Project.jpg"
 ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Client%20Deleted%20Project.jpg"
 coverImage:

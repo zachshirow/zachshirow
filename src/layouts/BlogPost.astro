@@ -4,6 +4,7 @@ import type { CollectionEntry } from "astro:content";
 import BaseLayout from "./Base.astro";
 import BlogHero from "@/components/blog/Hero";
 import JoinTelegram from "@/components/layout/JoinTelegram";
+import Commenting from "@/components/layout/Commenting";
 
 interface Props {
 	post: CollectionEntry<"post">;
@@ -96,7 +97,7 @@ const { headings } = await post.render();
 			>
 				<slot />
 			</div>
-			
+			<Commenting title={title} />
 			<JoinTelegram />
 		</article>
 	</div>

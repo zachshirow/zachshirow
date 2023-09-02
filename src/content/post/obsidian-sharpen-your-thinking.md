@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 title: با ابسیدین تفکرت رو تیز کن
-alias: با ابسیدین تفکرت رو تیز کن
+alias: با ابسیدین تفکرت رو تیز کن, obsidian - sharpen your thinking
 description: "ابسیدین (Obsidian) یک نرم افزار آفلاین شخصی و منعطف یادداشت برداری هست که با طریقه فکر کردن شما سازگار می شود."
-publishDate: 2023-09-01
-updatedDate: 2023-09-01
+publishDate: 2023-06-05
+updatedDate: 2023-06-05
 ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Cover%20Gradient.jpg"
 coverImage:
   src: "https://zachshirow.storage.iran.liara.space/Posts/Cover%20Gradient.jpg"
