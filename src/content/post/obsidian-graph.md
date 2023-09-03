@@ -1,14 +1,13 @@
 ---
 draft: false
 title: گراف در ابسیدین
-alias: گراف در ابسیدین, obsidian graph
+aliases: 
+   - گراف در ابسیدین
+   - obsidian graph
 description: "نمای گراف در ابسیدین این امکان را به شما می دهد تا رابطه های بین یادداشت هایتان در محفظه ابسیدین تان را تجسم کنید. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Graph.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Graph.jpg"
-  alt: "نمای گراف در ابسیدین"
+image: https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Graph.jpg
 tags: 
 - بلاگ
 - obsidian

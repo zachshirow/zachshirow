@@ -1,17 +1,15 @@
 ---
-draft: true
+draft: false
 title: اینترنت برای مهارت های شما بیشتر از کارفرمایتان خرج می‌کند
-alias: اینترنت برای مهارت های شما بیشتر از کارفرمایتان خرج می‌کند
+aliases:
+  - اینترنت برای مهارت های شما بیشتر از کارفرمایتان خرج می‌کند
 description: "بیشتر مردم از این موضوع خبر ندارند. نظام سرمایه داری یه حقیقت کمتر شناخته شده رو از شما مخفی می کنه. "
 publishDate: 2023-05-01
 updatedDate: 2023-05-01
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/zachary-working-with-laptop-on-desktop.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/zachary-working-with-laptop-on-desktop.jpg"
-  alt: "زکریا شیرمحمدلی - در حال کار با لپتاپ روی پروژه های فریلنسری"
-tags: 
-- بلاگ
-- فریلنسری
+image: https://zachshirow.storage.iran.liara.space/Posts/zachary-working-with-laptop-on-desktop.jpg
+tags:
+  - بلاگ
+  - فریلنسری
 ---
 
 کسب و کار هایی که آدم ها رو برای پول در آوردن استخدام می کنند باید به اونها کمترین حقوق رو پرداخت کنند تا حدی که کارمندان از شرکت استعفا ندهند. اینطوری شرکت ها درآمد بیشتری خواهند داشت. این یک توطئه شیطانی نیست. این فقط طوریه که بازار کار عمل می کند. زمانی که شما  این موضوع رو بدونید دیگر نمیتوانید چشمتون رو به روی اون ببندید. 

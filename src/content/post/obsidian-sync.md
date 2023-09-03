@@ -1,14 +1,12 @@
 ---
 draft: false
 title: ابسیدین سینک، همگام سازی در ابسیدین
-alias: ابسیدین سینک, همگام سازی در ابسیدین
+aliases: 
+   - ابسیدین سینک, همگام سازی در ابسیدین
 description: "همه نوت هایتان، روی همه دستگاه هایتان. راه امن و بی خطر برای سینک کردن نوت های ابسیدین تان بین همه دستگاه ها و سیستم عامل های شما. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Sync.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Sync.jpg"
-  alt: "قابلیت همگام سازی فایل ها در ابسیدین"
+image: https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Sync.jpg
 tags: 
 - بلاگ
 - obsidian

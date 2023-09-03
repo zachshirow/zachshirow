@@ -1,14 +1,13 @@
 ---
 draft: false
 title: راهنمای کامل بررسی و نصب افزونه ها در ابسیدین
-alias: افزونه های ابسیدین, obsidian plugins
+aliases: 
+   - افزونه های ابسیدین
+   - obsidian plugins
 description: "توی این مقاله میخوام در مورد اینکه افزونه هایی که توسط اعضای انجمن ابسیدین برنامه نویسی شده اند پیدا کرده و نصب کنیم."
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Plugins.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Plugins.jpg"
-  alt: "افزونه های ابسیدین"
+image: https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Plugins.jpg
 tags: 
 - بلاگ
 - obsidian

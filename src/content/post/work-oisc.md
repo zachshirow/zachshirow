@@ -1,17 +1,15 @@
 ---
-draft: true
-title: تجربه همکاری من با دفتر بین الملل دانشگاه مازندران 
-alias: تجربه همکاری من با دفتر بین الملل دانشگاه مازندران 
+draft: false
+title: تجربه همکاری من با دفتر بین الملل دانشگاه مازندران
+aliases:
+  - تجربه همکاری من با دفتر بین الملل دانشگاه مازندران
 description: "یکی از تجربه های کاری ام که خیلی بهش افتخار می کنم همکاری با مدیریت همکاری های علمی و بین المللی دانشگاه مازندران در دوران دانیجوشی ام بود. "
 publishDate: 2023-07-02
 updatedDate: 2023-07-02
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/My%20Work%20Experience%20at%20OISC.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/My%20Work%20Experience%20at%20OISC.jpg"
-  alt: "تجربه همکاری من با دفتر بین الملل دانشگاه مازندران"
-tags: 
-- بلاگ
-- فریلنسری
+image: https://zachshirow.storage.iran.liara.space/Posts/My%20Work%20Experience%20at%20OISC.jpg
+tags:
+  - بلاگ
+  - فریلنسری
 ---
 
 

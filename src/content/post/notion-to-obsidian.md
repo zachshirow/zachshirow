@@ -1,18 +1,16 @@
 ---
-draft: true
-title: "چرا به عنوان یک ایرانی از نوشن به ابسیدین کوچ کردم؟"
-alias: "چرا به عنوان یک ایرانی از نوشن به ابسیدین کوچ کردم؟"
-description: "توی این مقاله قصد دارم که از دلایل اینکه چرا از نوشن به ابسیدین کوچ کردم باهاتون صحبت کنم."
+draft: false
+title: چرا به عنوان یک ایرانی از نوشن به ابسیدین کوچ کردم؟
+aliases:
+  - چرا به عنوان یک ایرانی از نوشن به ابسیدین کوچ کردم؟
+description: توی این مقاله قصد دارم که از دلایل اینکه چرا از نوشن به ابسیدین کوچ کردم باهاتون صحبت کنم.
 publishDate: 2022-09-19
 updatedDate: 2023-09-02
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/notion-obsidian.jpg"
-coverImage: 
-  src: "https://zachshirow.storage.iran.liara.space/Posts/notion-obsidian.jpg"
-  alt: "چرا از نوشن به ابسیدین کوچ کردم؟ (به عنوان یک ایرانی)"
-tags: 
-- بلاگ
-- notion
-- obsidian
+image: https://zachshirow.storage.iran.liara.space/Posts/notion-obsidian.jpg
+tags:
+  - بلاگ
+  - notion
+  - obsidian
 ---
 
 

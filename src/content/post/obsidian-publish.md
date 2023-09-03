@@ -1,17 +1,16 @@
 ---
-draft: true
+draft: false
 title: ابسیدین پابلیش
-alias: ابسیدین پابلیش, obsidian publish
+aliases:
+  - ابسیدین پابلیش
+  - obsidian publish
 description: "برای دانش ات یک خانه در اینترنت بساز. آسان ترین راه برای انتشار ویکی، پایگاه دانش، مستندات، و باغچه دیجیتال شما. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Publish.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Publish.jpg"
-  alt: "قابلیت پابلیش ابسیدین"
-tags: 
-- بلاگ
-- obsidian
+image: https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Publish.jpg
+tags:
+  - بلاگ
+  - obsidian
 ---
 
 

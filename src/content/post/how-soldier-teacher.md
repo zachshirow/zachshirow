@@ -1,16 +1,14 @@
 ---
 draft: false
 title: چجوری توی سال 1402 سربازمعلمی گرفتم
-alias: چجوری توی سال 1402 سربازمعلمی گرفتم
-description: "به عنوان کسی که در طرح سربازمعلمی 1402 ثبت نام کرده و قبول شده، توی این مقاله تجربیاتم در این خصوص رو باهاتون به اشتراک می گذارم. "
+aliases:
+  - چجوری توی سال 1402 سربازمعلمی گرفتم
+description: به عنوان کسی که در طرح سربازمعلمی 1402 ثبت نام کرده و قبول شده، توی این مقاله تجربیاتم در این خصوص رو باهاتون به اشتراک می گذارم.
 publishDate: 2023-08-02
 updatedDate: 2023-08-02
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/how%20soldier%20teacher.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/how%20soldier%20teacher.jpg"
-  alt: "چطوری توی سال 1402 سربازمعلم شدم"
-tags: 
-- بلاگ
+image: https://zachshirow.storage.iran.liara.space/Posts/how%20soldier%20teacher.jpg
+tags:
+  - بلاگ
 ---
 
 

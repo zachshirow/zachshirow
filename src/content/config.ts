@@ -23,14 +23,8 @@ const post = defineCollection({
 				.or(z.date())
 				.optional()
 				.transform((str) => (str ? new Date(str) : undefined)),
-			coverImage: z
-				.object({
-					src: z.string(),
-					alt: z.string(),
-				})
-				.optional(),
+			image: z.string().optional(),
 			tags: z.array(z.string()).default([]).transform(removeDupsAndLowerCase),
-			ogImage: z.string().optional(),
 		}),
 });
 

@@ -1,14 +1,14 @@
 ---
 draft: false
 title: کانواس در ابسیدین
-alias: کانواس در ابسیدین, obsidian canvas
+aliases: 
+   - کانواس در ابسیدین
+   - obsidian canvas
 description: "یک فضای بی نهایت برای تحقیق، طوفان ذهنی، رسم نمودار و چیدن ایده هایتان. کانواس یک پلاگین اصلی رایگان برای ابسیدین می باشد. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Canvas.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Canvas.jpg"
-  alt: "ابزار کانواس در ابسیدین"
+ogImage: ""
+image: https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Canvas.jpg
 tags: 
 - بلاگ
 - obsidian

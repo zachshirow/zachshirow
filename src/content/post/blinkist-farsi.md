@@ -1,16 +1,16 @@
 ---
-title: "بلینکیست فارسی"
-alias: بلینکیست فارسی
-description: "ترجمه فارسی مطالب بلینکیست که در واقع چکیده کتاب های مطرح جهان هست رو باهاتون به اشتراک میگذارم."
+draft: false
+title: بلینکیست فارسی
+aliases:
+  - بلینکیست فارسی
+description: ترجمه فارسی مطالب بلینکیست که در واقع چکیده کتاب های مطرح جهان هست رو باهاتون به اشتراک میگذارم.
 publishDate: 2023-07-01
 updatedDate: 2023-07-01
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/blinkist-fars.jpg"
-coverImage: 
-  src: "https://zachshirow.storage.iran.liara.space/Posts/blinkist-fars.jpg"
-  alt: "بلینکیست فارسی - گوش دادن به خلاصه کتاب ها"
-tags: 
-- بلاگ
-- بلینکیست فارسی
+image: https://zachshirow.storage.iran.liara.space/Posts/blinkist-fars.jpg
+tags:
+  - بلاگ
+  - بلینکیست
+  - فارسی
 ---
 
 

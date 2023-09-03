@@ -1,14 +1,11 @@
 ---
 draft: false
 title: لینک های داخلی در ابسیدین
-alias: لینک های داخلی در ابسیدین
+aliases: لینک های داخلی در ابسیدین
 description: "ایده هایتان را به یکدیگر متصل کنید. مناسب برای کسانی که به  صورت خطی فکر نمیکنند. شبکه ای از ایده هایتان درست کنید و شگفت زده شوید."
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Internal%20Links.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/Internal%20Links.jpg"
-  alt: "لینک های داخلی در ابسیدین"
+image: https://zachshirow.storage.iran.liara.space/Posts/Internal%20Links.jpg
 tags: 
 - بلاگ
 - obsidian

@@ -8,9 +8,12 @@ import Pagination from "@/components/Paginator";
 import { getUniqueTags, sortMDByDate } from "@/utils";
 
 export const getStaticPaths = (async ({ paginate }) => {
-	const allPosts = await getCollection("post");
+	const allPosts = await getCollection("post", ({ data }) => {
+	return data.draft !== true;
+	});
 	const allPostsByDate = sortMDByDate(allPosts);
 	const uniqueTags = getUniqueTags(allPosts);
+
 	return paginate(allPostsByDate, { props: { uniqueTags }, pageSize: 10 });
 }) satisfies GetStaticPaths;
 
@@ -43,7 +46,8 @@ const paginationProps = {
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">پست ها</h1>
+	<h1 class="title mb-6">پست ها <span class="text-sm text-accent"><a title="فید RSS" class="cactus-link" href="/rss.xml">فید RSS</a></span></h1>
+	
 	<div class="grid gap-y-16 sm:grid-cols-[3fr_1fr] sm:gap-x-8">
 		<section aria-label="Blog post list">
 			<ul class="space-y-8 text-start">
@@ -97,6 +101,8 @@ const paginationProps = {
 							مشاهده همه ←
 						</a>
 					</span>
+
+
 				</aside>
 			)
 		}

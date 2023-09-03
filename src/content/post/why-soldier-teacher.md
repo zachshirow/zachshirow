@@ -1,16 +1,14 @@
 ---
 draft: false
 title: چرا تصمیم گرفتم سربازمعلم بشم
-alias: چرا تصمیم گرفتم سربازمعلم بشم
+aliases:
+  - چرا تصمیم گرفتم سربازمعلم بشم
 description: "قبل از اینکه برای سربازمعلمی اقدام کنید باید نکات منفی و مثبت اون رو بدونید. این نکات رو در این مقاله بخونید. "
 publishDate: 2023-08-02
 updatedDate: 2023-08-02
-ogImage: "https://zachshirow.storage.iran.liara.space/Posts/Why%20soldier%20teacher.jpg"
-coverImage:
-  src: "https://zachshirow.storage.iran.liara.space/Posts/Why%20soldier%20teacher.jpg"
-  alt: "چرا تصمیم گرفتم سربازمعلم بشم"
-tags: 
-- بلاگ
+image: https://zachshirow.storage.iran.liara.space/Posts/Why%20soldier%20teacher.jpg
+tags:
+  - بلاگ
 ---
 
 
