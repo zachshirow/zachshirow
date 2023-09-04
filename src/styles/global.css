@@ -36,17 +36,22 @@
 		direction: rtl;
 	}
 
+
+	/* .blog-body {
+		@apply 
+	} */
+
 	#main-header, #main-footer, pre, code, code span {
 		direction: ltr;
 	}
 
-	blockquote {
+	article blockquote {
 		padding-right: 10px;
+		padding-top: 5px; 
+		padding-bottom: 5px;
 	}
 	
-	.callout-title p, .callout-title span, .callout-title svg {
-		display: inline; 
-	}
+	
 
 	article a[href^="http"]::after,
 	article a[href^="https://"]::after
@@ -63,5 +68,12 @@
 		display: inline-block;
 	}
 
+	.task-list-item, input[type="checkbox"] { 
+		list-style-type: none;
+	}
 	
+	blockquote.callout {
+		padding: 10px; 
+	}
+
 }
