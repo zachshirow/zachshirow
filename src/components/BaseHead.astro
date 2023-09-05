@@ -5,13 +5,13 @@ import "../styles/global.css";
 
 type Props = SiteMeta;
 
-const { title, description, ogImage, articleDate } = Astro.props;
+const { title, description, image, articleDate } = Astro.props;
 
 const titleSeparator = "•";
 const siteTitle = `${title} ${titleSeparator} ${siteConfig.title}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 // const socialImageURL = new URL(ogImage ? ogImage : "/social-card.jpg", Astro.url).href;
-const socialImageURL =  ogImage ? ogImage : "https://zachshirow.storage.iran.liara.space/social-card.jpg"
+const socialImageURL =  image ? (image !== "" ? image : "https://zachshirow.storage.iran.liara.space/social-card.jpg") : "https://zachshirow.storage.iran.liara.space/social-card.jpg"
 
 ---
 

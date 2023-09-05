@@ -1,13 +1,12 @@
 ---
 draft: true
-title: 
-aliases: []
+title: ""
+aliases: 
+ - 
 description: ""
-publishDate:
-  "{ date }": 
-updatedDate:
-  "{ date }": 
-image: ""
+publishDate: {{date}} 
+updatedDate: {{date}} 
+image: "https://zachshirow.storage.iran.liara.space/Posts/"
 tags:
   - بلاگ
   - فریلنسری

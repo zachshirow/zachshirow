@@ -76,7 +76,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 
 {
 	data.image && (
-		<div class="aspect-h-3 aspect-w-4 my-6">
+		data.image !== "" && (<div class="aspect-h-3 aspect-w-4 my-6">
 			<img
 				src={data.image}
 				alt={data.title}
@@ -84,7 +84,7 @@ const dateTimeOptions: Intl.DateTimeFormatOptions = {
 				loading="eager"
 				fetchpriority="high"
 			/>
-		</div>
+		</div>)
 	)
 }
 
