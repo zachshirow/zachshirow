@@ -9,8 +9,7 @@ updatedDate: 2023-07-01
 image: https://zachshirow.storage.iran.liara.space/Posts/blinkist-fars.jpg
 tags:
   - بلاگ
-  - بلینکیست
-  - فارسی
+  - بلینکیست-فارسی
 ---
 
 

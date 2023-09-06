@@ -9,7 +9,7 @@ interface Props {
 }
 
 const {
-	frontmatter: { title, description = siteConfig.description, ogImage, coverImage, updatedDate, publishDate }
+	frontmatter: { title, description = siteConfig.description, image, updatedDate, publishDate }
 } = Astro.props;
 
 const articleDate = updatedDate ?? publishDate;
@@ -35,16 +35,16 @@ const articleDate = updatedDate ?? publishDate;
 	observer.observe(targetHeader);
 </script>
 
-<BaseLayout meta={{ title, description, articleDate, ogImage }}>
+<BaseLayout meta={{ title, description, articleDate, image }}>
 	<div class="gap-x-10 lg:flex lg:items-start">
 		<article class="flex-grow break-words" data-pagefind-body>
 			<h1 class="title mb-5 sm:mb-3 text-4xl">{title}</h1>
 			{
-				coverImage && (
+				image && (
 					<div class="aspect-h-9 aspect-w-16 mb-6">
 						<Image
-							src={coverImage.src}
-							alt={coverImage.alt}
+							src={image.src}
+							alt={image.alt}
 							class="object-cover"
 							loading="eager"
 							fetchpriority="high"

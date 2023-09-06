@@ -43,7 +43,7 @@ const { headings } = await post.render();
 	observer.observe(targetHeader);
 </script>
 
-<BaseLayout meta={{ title, description, articleDate, ogImage: socialImage }}>
+<BaseLayout meta={{ title, description, articleDate, image: socialImage }}>
 	<div class="gap-x-10 lg:flex lg:items-start">
 		{
 			!!headings.length && (
