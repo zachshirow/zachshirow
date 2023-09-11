@@ -34,7 +34,7 @@ export default defineConfig({
 		assets: true,
 	},
 	image: {
-		domains: ["https://storage.iran.liara.space/"],
+		domains: ["https://files.zachshirow.ir/"],
 		// https://docs.astro.build/en/guides/assets/#using-sharp
 		service: sharpImageService(),
 	},
