@@ -7,7 +7,7 @@ aliases:
 description: "ابسیدین (Obsidian) یک نرم افزار آفلاین شخصی و منعطف یادداشت برداری هست که با طریقه فکر کردن شما سازگار می شود."
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-image: https://zachshirow.storage.iran.liara.space/Posts/Cover%20Gradient.jpg
+image: http://files.zachshirow.ir/Posts/Cover%20Gradient.jpg
 tags: 
 - بلاگ
 - obsidian
@@ -18,7 +18,7 @@ tags:
 
 ابسیدین (Obsidian) یک نرم افزار آفلاین شخصی و منعطف یادداشت برداری هست که با طریقه فکر کردن شما سازگار می شود. ابسیدین برای سیستم عامل های مختلف مثل ویندوز و اندروید و مک و آی او اس عرضه شده و برای استفاده شخصی رایگان هست. این مقاله رو بخونید تا بیشتر در مورد این نرم افزار شگفت انگیز یاد بگیرید. 
 
-![نرم افزار های ویندوز و اندروید ابسیدین](https://zachshirow.storage.iran.liara.space/Posts/obsidian-home/preview%20obsidian%20apps.png)
+![نرم افزار های ویندوز و اندروید ابسیدین](http://files.zachshirow.ir/Posts/obsidian-home/preview%20obsidian%20apps.png)
 ## ویژگی های منحصر به فرد ابسیدین
 
 ابسیدین چند تا ویژگی منحصر به فرد داره: 
@@ -38,31 +38,31 @@ tags:
 
 [[obsidian-internal-links|لینک های داخلی در ابسیدین]]
 
-![obsidian internal links](https://zachshirow.storage.iran.liara.space/Posts/obsidian-home/previw%20obsidian%20links.png)
+![obsidian internal links](http://files.zachshirow.ir/Posts/obsidian-home/previw%20obsidian%20links.png)
 
 **گراف**
 رابطه بین یادداشت های خودتان را تجسم کنید. الگوهای مخفی تفکرتان را به وسیله یک گراف جذاب و تعاملی پیدا کنید. 
 
 [[obsidian-graph|گراف در ابسیدین]]
 
-![obsidian graph](https://zachshirow.storage.iran.liara.space/Posts/obsidian-home/preview%20obsidian%20graph.png)
+![obsidian graph](http://files.zachshirow.ir/Posts/obsidian-home/preview%20obsidian%20graph.png)
 
 **کانواس**
 یک فضای بی نهایت برای تحقیق، طوفان ذهنی، رسم نمودار و چیدن ایده هایتان. کانواس یک محل بازی بی نهایت برای ذهن شماست. 
 
 [[obsidian-canvas|ابسیدین کانواس]]
 
-![obsidian canvas](https://zachshirow.storage.iran.liara.space/Posts/obsidian-home/preview%20obsidian%20canvas.png)
+![obsidian canvas](http://files.zachshirow.ir/Posts/obsidian-home/preview%20obsidian%20canvas.png)
 
 **افزونه ها**
 فضای تفکر ایده آل خود را بسازید. با بیش از صدها افزونه و API متن باز مان، بسیار ساده است که ابسیدین را در جریان کار شخصی خودتان تطبیق دهید. 
 
 [[obsidian-plugins|افزونه های ابسیدین]]
 
-![obsidian plugins](https://zachshirow.storage.iran.liara.space/Posts/obsidian-home/preview%20obsidian%20plugins.png)
+![obsidian plugins](http://files.zachshirow.ir/Posts/obsidian-home/preview%20obsidian%20plugins.png)
 ## ایمن همگام سازی کن.
 
-![obsidian sync](https://zachshirow.storage.iran.liara.space/Posts/obsidian-home/preview%20obsidian%20sync.png)
+![obsidian sync](http://files.zachshirow.ir/Posts/obsidian-home/preview%20obsidian%20sync.png)
 
 به یادداشت های خود در هر دستگاهی دسترسی پیدا کنید. این همگام سازی با رمز گزاری نظامی AES-256 ایمن شده است. 
 
@@ -76,7 +76,7 @@ tags:
 
 ## در یک آن منتشر کن.
 
-![obsidian publish](https://zachshirow.storage.iran.liara.space/Posts/obsidian-home/preview%20obsidian%20publish.png)
+![obsidian publish](http://files.zachshirow.ir/Posts/obsidian-home/preview%20obsidian%20publish.png)
 
 یادداشت های خود را تبدیل به ویکی آنلاین، پایگاه دانش، مستندات، یا باغ دیجیتال کنید. 
 

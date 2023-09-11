@@ -6,7 +6,7 @@ aliases:
 description: "قبل از اینکه برای سربازمعلمی اقدام کنید باید نکات منفی و مثبت اون رو بدونید. این نکات رو در این مقاله بخونید. "
 publishDate: 2023-08-02
 updatedDate: 2023-08-02
-image: https://zachshirow.storage.iran.liara.space/Posts/Why%20soldier%20teacher.jpg
+image: http://files.zachshirow.ir/Posts/Why%20soldier%20teacher.jpg
 tags:
   - بلاگ
 ---

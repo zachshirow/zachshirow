@@ -6,7 +6,7 @@ aliases:
 description: بعد از اتمام پروژه و تحویل فایل به کارفرما، پروژه من از سمت ایشون لغو شد!! اینجا می تونید بخوانید بعد از این اتفاق چیکار کردم...
 publishDate: 2023-02-05
 updatedDate: 2023-02-05
-image: https://zachshirow.storage.iran.liara.space/Posts/Client%20Deleted%20Project.jpg
+image: http://files.zachshirow.ir/Posts/Client%20Deleted%20Project.jpg
 tags:
   - بلاگ
   - فریلنسری

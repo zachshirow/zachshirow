@@ -6,7 +6,7 @@ aliases:
 description: ترجمه فارسی مطالب بلینکیست که در واقع چکیده کتاب های مطرح جهان هست رو باهاتون به اشتراک میگذارم.
 publishDate: 2023-07-01
 updatedDate: 2023-07-01
-image: https://zachshirow.storage.iran.liara.space/Posts/blinkist-fars.jpg
+image: http://files.zachshirow.ir/Posts/blinkist-fars.jpg
 tags:
   - بلاگ
   - بلینکیست-فارسی
@@ -50,7 +50,7 @@ tags:
 
 کاملترین کتابخانه غیر داستانی با بیش از 5 هزار کتاب
 
-![موضوعات بلینکیست](https://zachshirow.storage.iran.liara.space/Posts/blinkist-subjects.jpg)
+![موضوعات بلینکیست](http://files.zachshirow.ir/Posts/blinkist-subjects.jpg)
 
 - بیوگرافی و شرح حال
 - شغل و موفقیت

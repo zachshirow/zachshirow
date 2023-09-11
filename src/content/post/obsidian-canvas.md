@@ -8,7 +8,7 @@ description: "یک فضای بی نهایت برای تحقیق، طوفان ذ�
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
 ogImage: ""
-image: https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Canvas.jpg
+image: http://files.zachshirow.ir/Posts/Obsidian%20Canvas.jpg
 tags: 
 - بلاگ
 - obsidian
@@ -24,7 +24,7 @@ tags:
 
 یادداشت هایتان را همراه با تصاویر، پی دی اف ها، ویدیوها، صداها، و حتی صفحات وب کاملا تعاملی در کانواس درج (Embed) کنید. 
 
-![canvas-cookies](https://zachshirow.storage.iran.liara.space/Posts/canvas-cookies.jpg)
+![canvas-cookies](http://files.zachshirow.ir/Posts/canvas-cookies.jpg)
 
 ## روش جدیدی برای فکر کردن. 
 
@@ -32,7 +32,7 @@ tags:
 
 نمای کانواس را می توانید در یادداشت ها ایمبد کنید و حتی داخل یک کانواس دیگر اضافه کنید.  
 
-![canvas-demo-help-vault](https://zachshirow.storage.iran.liara.space/Posts/canvas-demo-help-vault.jpg)
+![canvas-demo-help-vault](http://files.zachshirow.ir/Posts/canvas-demo-help-vault.jpg)
 
 
 ## توسعه پذیر و دارای قابلیت همکاری
@@ -41,7 +41,7 @@ tags:
 
 فایل های کانواس شما به صورت محلی با استفاده از فرمت باز JSON ذخیره می شوند و ما آن را طوری طراحی کردیم که امکان کار با آن به وسیله ابزار های دیگر هم باشد. برنامه ها، اسکریپت ها، و افزونه ها می توانند به آسانی با ویرایش کارت ها و اتصالات به قابلیت های کاواس بیافزایند.  
 
-![canvas-hero](https://zachshirow.storage.iran.liara.space/Posts/canvas-hero.jpg)
+![canvas-hero](http://files.zachshirow.ir/Posts/canvas-hero.jpg)
 
 ## انعطاف پذیر و با کارکرد آسان
 

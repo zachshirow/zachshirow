@@ -7,7 +7,7 @@ aliases:
 description: "نمای گراف در ابسیدین این امکان را به شما می دهد تا رابطه های بین یادداشت هایتان در محفظه ابسیدین تان را تجسم کنید. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-image: https://zachshirow.storage.iran.liara.space/Posts/Obsidian%20Graph.jpg
+image: http://files.zachshirow.ir/Posts/Obsidian%20Graph.jpg
 tags: 
 - بلاگ
 - obsidian
@@ -85,11 +85,11 @@ tags:
 
 نوت ها و پیوست ها در ترتیب زمانی متناسب با زمان ایجاد شدن آنها نمایش داده می شوند. 
 
-![obsidian-graph-01](https://zachshirow.storage.iran.liara.space/Posts/obsidian-graph-1.png)
+![obsidian-graph-01](http://files.zachshirow.ir/Posts/obsidian-graph-1.png)
 ## گراف محلی
 
 برای باز کردن نمای گراف محلی، از دستور **Open logal graph** استفاده کنید (با فشردن `ctrl + p` کامند پالت را باز کنید.) در حالی که نمای گراف همه یادداشت های محفظه شما را نمایش می دهد، نمای گراف محلی تنها یادداشت هایی که به یادداشت فعال لینک شده اند را نمایش می دهد. 
 
 در نمای گراف محلی همه تنظیماتی که برای نمای گراف در دسترس بودند را می توانید تغییر دهید. همینطور می توانید عمق گراف محلی را نیز تغییر دهید. هر سطح عمق، نوت های مرتبط با نوت های آشکار شده در عمق قبلی را نشان می دهد. برای کنترل عمق گراف محلی، اس اسلایدر بالای تنظیمات گراف محلی استفاده کنید. 
 
-![obsidian-graph-02](https://zachshirow.storage.iran.liara.space/Posts/obsidian-graph-2.png)
+![obsidian-graph-02](http://files.zachshirow.ir/Posts/obsidian-graph-2.png)

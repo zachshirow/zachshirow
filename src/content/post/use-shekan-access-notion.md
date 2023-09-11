@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 title: چجوری در ایران به نوشن دسترسی پیدا کنیم
 aliases:
   - چجوری در ایران به نوشن دسترسی پیدا کنیم
 description: توی این مقاله میخوام بهتون یاد بدم چطور بدون هیچ مشکل و هزینه ای به Notion دسترسی پیدا کنید.
 publishDate: 2023-09-06
 updatedDate: 2023-09-06
-image: https://zachshirow.storage.iran.liara.space/Posts/use-shekan-access-notion.jpg
+image: http://files.zachshirow.ir/Posts/use-shekan-access-notion.jpg
 tags:
   - بلاگ
   - obsidian

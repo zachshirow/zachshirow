@@ -6,7 +6,7 @@ aliases:
 description: "بیشتر مردم از این موضوع خبر ندارند. نظام سرمایه داری یه حقیقت کمتر شناخته شده رو از شما مخفی می کنه. "
 publishDate: 2023-05-01
 updatedDate: 2023-05-01
-image: https://zachshirow.storage.iran.liara.space/Posts/zachary-working-with-laptop-on-desktop.jpg
+image: http://files.zachshirow.ir/Posts/zachary-working-with-laptop-on-desktop.jpg
 tags:
   - بلاگ
   - فریلنسری

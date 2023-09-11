@@ -6,7 +6,7 @@ aliases:
 description: به عنوان کسی که در طرح سربازمعلمی 1402 ثبت نام کرده و قبول شده، توی این مقاله تجربیاتم در این خصوص رو باهاتون به اشتراک می گذارم.
 publishDate: 2023-08-02
 updatedDate: 2023-08-02
-image: https://zachshirow.storage.iran.liara.space/Posts/how%20soldier%20teacher.jpg
+image: http://files.zachshirow.ir/Posts/how%20soldier%20teacher.jpg
 tags:
   - بلاگ
 ---
@@ -50,7 +50,7 @@ tags:
 
 بخشنامه ثبت نام در طرح سربازمعلمی که برای سال 1402 هست رو اینجا براتون میذارم تا همه جزئیاتش رو مطالعه کنید. 
 
-[بخشنامه سربازمعلمی 1402](https://zachshirow.storage.iran.liara.space/Freebies/%D8%A8%D8%AE%D8%B4%D9%86%D8%A7%D9%85%D9%87%20%20%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%20%D9%85%D8%B9%D9%84%D9%85.pdf)
+[بخشنامه سربازمعلمی 1402](http://files.zachshirow.ir/Freebies/%D8%A8%D8%AE%D8%B4%D9%86%D8%A7%D9%85%D9%87%20%20%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%20%D9%85%D8%B9%D9%84%D9%85.pdf)
 
 ## نحوه ثبت نام در سال 1402 چگونه بود؟ 
 

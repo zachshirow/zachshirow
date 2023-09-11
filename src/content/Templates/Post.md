@@ -7,7 +7,7 @@ publishDate:
   "{ date }": 
 updatedDate:
   "{ date }": 
-image: https://zachshirow.storage.iran.liara.space/Posts/
+image: http://files.zachshirow.ir/Posts/
 tags:
   - بلاگ
   - بلاگ

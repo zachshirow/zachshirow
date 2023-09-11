@@ -6,7 +6,7 @@ aliases:
 description: "یکی از تجربه های کاری ام که خیلی بهش افتخار می کنم همکاری با مدیریت همکاری های علمی و بین المللی دانشگاه مازندران در دوران دانیجوشی ام بود. "
 publishDate: 2023-07-02
 updatedDate: 2023-07-02
-image: https://zachshirow.storage.iran.liara.space/Posts/My%20Work%20Experience%20at%20OISC.jpg
+image: http://files.zachshirow.ir/Posts/My%20Work%20Experience%20at%20OISC.jpg
 tags:
   - بلاگ
   - فریلنسری
@@ -42,6 +42,6 @@ tags:
 
 در حال حاضر همکاری من با مدیریت بین الملل دانشگاه مازندران به اتمام رسیده است. من همیشه این فرصت شغلی را با نیکی به یاد خواهم داشت و برای همه همکارانم آرزوی سلامتی، تندرستی و موفقیت روز افزون دارم. 
 
-![پله های دانشگاه مازندران - ساختمان اصلی اداری](https://zachshirow.storage.iran.liara.space/Posts/UniversityOfMazandaranStairs.jpg)
+![پله های دانشگاه مازندران - ساختمان اصلی اداری](http://files.zachshirow.ir/Posts/UniversityOfMazandaranStairs.jpg)
 
 عکس: راه پله ساختمان مرکزی دانشگاه مازندران
