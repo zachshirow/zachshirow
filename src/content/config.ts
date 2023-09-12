@@ -11,9 +11,10 @@ const post = defineCollection({
 	type: "content",
 	schema: ({ image }) =>
 		z.object({
-			draft: z.boolean().default(true),
+			draft: z.boolean(),
 			title: z.string().max(60),
-			description: z.string().min(50).max(160),
+			aliases: z.array(z.string()).or(z.string()).optional(),
+			description: z.string().min(50).max(160).optional(),
 			publishDate: z
 				.string()
 				.or(z.date())

@@ -9,7 +9,6 @@ updatedDate: 2023-09-06
 image: http://files.zachshirow.ir/Posts/use-shekan-access-notion.jpg
 tags:
   - بلاگ
-  - obsidian
   - notion
 ---
 

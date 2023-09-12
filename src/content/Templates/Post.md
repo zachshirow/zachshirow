@@ -3,13 +3,10 @@ draft: true
 title: ""
 aliases: []
 description: ""
-publishDate:
-  "{ date }": 
-updatedDate:
-  "{ date }": 
+publishDate: {{date}}
+updatedDate: {{date}}
 image: http://files.zachshirow.ir/Posts/
 tags:
-  - بلاگ
   - بلاگ
   - فریلنسری
   - آموزش-زبان-انگلیسی
