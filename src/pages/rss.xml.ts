@@ -3,7 +3,9 @@ import { getCollection } from "astro:content";
 import { siteConfig } from "@/site-config";
 
 export const get = async () => {
-	const posts = await getCollection("post");
+	const posts = await getCollection("post", ({ data }) => {
+		return data.draft !== true;
+	});
 
 	return rss({
 		title: siteConfig.title,
