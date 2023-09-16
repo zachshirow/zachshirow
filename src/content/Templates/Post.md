@@ -1,7 +1,8 @@
 ---
 draft: true
 title: ""
-aliases: []
+aliases: 
+  - 
 description: ""
 publishDate: {{date}}
 updatedDate: {{date}}
@@ -14,6 +15,7 @@ tags:
   - برنامه-نویسی-فرانت-اند
   - بلینکیست-فارسی
   - مینیمالیسم
+  - افزونه
   - obsidian
   - notion
   - baserow
