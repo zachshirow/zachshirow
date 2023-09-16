@@ -8,6 +8,7 @@
 		"sync": "astro sync",
 		"check": "astro check",
 		"build": "astro build",
+		"deploy": "liara deploy",
 		"postbuild": "pagefind --source dist",
 		"preview": "astro preview",
 		"format": "prettier -w --plugin-search-dir=. --cache ."
