@@ -5,7 +5,7 @@ aliases: کلید های میانبر در ابسیدین برای افزایش 
 description: "توی این مقاله کمکتون میکنم که با کلید های میانبر شخصی سازی شده بهره وری تون رو توی نرم افزار obsidian افزایش بدید."
 publishDate: 2023-09-17
 updatedDate: 2023-09-17
-image: http://files.zachshirow.ir/Posts/obsidian-shortcutkeys.jpg
+image: https://files.zachshirow.ir/Posts/obsidian-shortcutkeys.jpg
 tags:
   - بلاگ
   - obsidian

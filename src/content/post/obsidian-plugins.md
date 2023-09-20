@@ -7,7 +7,7 @@ aliases:
 description: "توی این مقاله میخوام در مورد اینکه افزونه هایی که توسط اعضای انجمن ابسیدین برنامه نویسی شده اند پیدا کرده و نصب کنیم."
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-image: http://files.zachshirow.ir/Posts/Obsidian%20Plugins.jpg
+image: https://files.zachshirow.ir/Posts/Obsidian%20Plugins.jpg
 tags: 
 - بلاگ
 - obsidian
@@ -32,7 +32,7 @@ tags:
 
 ### مشاهده تنظیمات افزونه ها
 
-![افزونه های ابسیدین داخل نرم افزار](http://files.zachshirow.ir/Posts/obsidian-plugins-01.png)
+![افزونه های ابسیدین داخل نرم افزار](https://files.zachshirow.ir/Posts/obsidian-plugins-01.png)
 
 بعد از اینکه افزونه دلخواه خودتون رو نصب کردید شاید بخواید که تنظیمات اون رو تغییر بدید. این کار رو میتونید به سه روش انجام بدید. 
 

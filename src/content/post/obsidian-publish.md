@@ -7,7 +7,7 @@ aliases:
 description: "برای دانش ات یک خانه در اینترنت بساز. آسان ترین راه برای انتشار ویکی، پایگاه دانش، مستندات، و باغچه دیجیتال شما. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-image: http://files.zachshirow.ir/Posts/Obsidian%20Publish.jpg
+image: https://files.zachshirow.ir/Posts/Obsidian%20Publish.jpg
 tags:
   - بلاگ
   - obsidian
@@ -32,7 +32,7 @@ tags:
 **بک لینک ها.** به طور اتوماتیک لینک هایی که به صفحه فعلی که در آن هستید ارجاع می دهند را لیست کنید. 
 
 
-![Publish example dark](http://files.zachshirow.ir/Posts/publish-example-dark-1.png)
+![Publish example dark](https://files.zachshirow.ir/Posts/publish-example-dark-1.png)
 
 ## نوشتن و همکاری
 
@@ -40,7 +40,7 @@ tags:
 
 پابلیش اختصاصا برای نسخه دسکتاپ و موبایل ابسیدین ساخته شده است، پس شما می توانید بدون حد و مرز بنویسید، همکاری کنید، و منتشر کنید. 
 
-![Publish Experiance](http://files.zachshirow.ir/Posts/publish-experience.png)
+![Publish Experiance](https://files.zachshirow.ir/Posts/publish-experience.png)
 
 
 **با مارکداون ویرایش کنید.** ویرایش متن فوق سریع بر اساس سادگی و اعتبار مارکداون. 
@@ -55,15 +55,15 @@ tags:
 
 ابسیدین پابلیش به شما امکان کنترل ظاهر و حس سایتتان را می دهد. خیلی آسان است که یک طرح منحصر به فرد و برند ایجاد کنید. 
 
-![obsidian publish theme](http://files.zachshirow.ir/Posts/Obsidian_publish_theme.png)
+![obsidian publish theme](https://files.zachshirow.ir/Posts/Obsidian_publish_theme.png)
 
 **تم ها.** ظاهر ابسیدین پابلیش تان را میتوانید به صورت کامل با CSS و Javascrip شخصی سازی کنید. 
 
-![obsidian publish domain](http://files.zachshirow.ir/Posts/Obsidian_publish_domain.png)
+![obsidian publish domain](https://files.zachshirow.ir/Posts/Obsidian_publish_domain.png)
 
 **دامنه شخصی.** نام دامنه تان را به ابسیدین پابلیش تان متصل کنید تا تجربه منحصربه فرد تری را بسازید.  
 
-![obsidian publish password](http://files.zachshirow.ir/Posts/Obsidian_publish_password.png)
+![obsidian publish password](https://files.zachshirow.ir/Posts/Obsidian_publish_password.png)
 
 **حفاظت شده با رمز.** دسترسی به سایتتان را با قابلیت چند رمز محدود کنید. 
 
@@ -88,7 +88,7 @@ tags:
 [سایت خود را ایجاد کنید.](https://obsidian.md/account#mode=signup)
 8$ در هر ماه. 
 
-![obsidian publish pricing](http://files.zachshirow.ir/Posts/obsidian-publish-pricing.png)
+![obsidian publish pricing](https://files.zachshirow.ir/Posts/obsidian-publish-pricing.png)
 
 
 ## نمونه سایت ها. 

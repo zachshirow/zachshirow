@@ -6,7 +6,7 @@ aliases:
 description: توی این مقاله میخوام بهتون یاد بدم چطور بدون هیچ مشکل و هزینه ای به Notion دسترسی پیدا کنید.
 publishDate: 2023-09-06
 updatedDate: 2023-09-06
-image: http://files.zachshirow.ir/Posts/use-shekan-access-notion.jpg
+image: https://files.zachshirow.ir/Posts/use-shekan-access-notion.jpg
 tags:
   - بلاگ
   - notion

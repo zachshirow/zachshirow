@@ -6,7 +6,7 @@ aliases:
 description: توی این پست می خوام داستان اینکه چجوری وبسایتی که دارید مشاهده می کنید رو ساختم رو بهتون بگم.
 publishDate: 2023-09-12
 updatedDate: 2023-09-12
-image: http://files.zachshirow.ir/Posts/how-i-built-zachshirow-ir.jpg
+image: https://files.zachshirow.ir/Posts/how-i-built-zachshirow-ir.jpg
 tags:
   - بلاگ
   - برنامه-نویسی-فرانت-اند

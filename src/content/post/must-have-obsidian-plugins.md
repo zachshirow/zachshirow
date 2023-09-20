@@ -7,7 +7,7 @@ aliases:
 description: "افزونه های مفید زیادی وجود داره که من توی مقاله زیر حیاتی ترین و اصلی ترین اونها رو برای شما معرفی کردم. "
 publishDate: 2023-09-01
 updatedDate: 2023-09-16
-image: http://files.zachshirow.ir/Posts/must%20have%20obsidian%20plugins.jpg
+image: https://files.zachshirow.ir/Posts/must%20have%20obsidian%20plugins.jpg
 tags:
   - بلاگ
   - obsidian
@@ -83,7 +83,7 @@ https://blacksmithgu.github.io/obsidian-dataview/
 
 این افزونه بهتون یه رابط کاربری تقویم میده که اگه روی هر روز از اون تقویم کلیک کنید یادداشت اون روز باز میشه. البته این تقویم میلادی هست و باید یاد بگیرید که با این تقویم کار کنید. در سمت چپ تقویم هم یادداشت هفته رو میتونید ببینید. برای دیدن یادداشت ماهانه و سالانه میتونید کامند پالت رو با زدن `CTRL + P` باز کنید و تایپ کنید `Monthly` یا `Yearly`.
 
-![must-have-obsidian-plugins-01.png](http://files.zachshirow.ir/Posts/must-have-obsidian-plugins-01.png)
+![must-have-obsidian-plugins-01.png](https://files.zachshirow.ir/Posts/must-have-obsidian-plugins-01.png)
 
 
 ### Natural language dates
@@ -150,10 +150,10 @@ https://git.ir/codewithmosh-the-ultimate-git-course/
 
 
 
-![must-have-obsidian-plugins-02.png](http://files.zachshirow.ir/Posts/must-have-obsidian-plugins-02.png)
+![must-have-obsidian-plugins-02.png](https://files.zachshirow.ir/Posts/must-have-obsidian-plugins-02.png)
 یه جدول از داده های داخل فایل csv رو در قالب جدول نمایش میشه داد: 
 
-![must-have-obsidian-plugins-03.png](http://files.zachshirow.ir/Posts/must-have-obsidian-plugins-03.png)
+![must-have-obsidian-plugins-03.png](https://files.zachshirow.ir/Posts/must-have-obsidian-plugins-03.png)
 
 
 

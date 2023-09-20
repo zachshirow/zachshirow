@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zachshirow.ir/sitemap-0.xml
+Sitemap: https://zachshirow.ir//sitemap-index.xml

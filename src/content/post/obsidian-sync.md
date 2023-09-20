@@ -6,7 +6,7 @@ aliases:
 description: "همه نوت هایتان، روی همه دستگاه هایتان. راه امن و بی خطر برای سینک کردن نوت های ابسیدین تان بین همه دستگاه ها و سیستم عامل های شما. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-image: http://files.zachshirow.ir/Posts/Obsidian%20Sync.jpg
+image: https://files.zachshirow.ir/Posts/Obsidian%20Sync.jpg
 tags: 
 - بلاگ
 - obsidian
@@ -38,15 +38,15 @@ tags:
 
 ابسیدین سینک به شما اجازه می دهد تصمیم بگیرید چه فایل ها و تنظیماتی را با چه دستگاه هایی همگام‌سازی کنید.  
 
-![vault configuration](http://files.zachshirow.ir/Posts/sync-Vault-Configuration.png)
+![vault configuration](https://files.zachshirow.ir/Posts/sync-Vault-Configuration.png)
 
 **تنظیمات محفظه.** کلید های میانبر، فایل ها و تنظیمات ویرایشگار را همگام سازی کنید، یا اینکه آنها را برای هر دستگاه جداگانه ویرایش کنید. 
 
-![Selective sync](http://files.zachshirow.ir/Posts/sync-Selective-Sync.png)
+![Selective sync](https://files.zachshirow.ir/Posts/sync-Selective-Sync.png)
 
 **همگام‌سازی اتخابی.** همگام سازی تصاویر، صداها، ویدیو و پی دی اف ها همه می توانند غیر فعال شوند تا داده ای که انتقال پیدا می کند کاهش پیدا کند. 
 
-![File recovery](http://files.zachshirow.ir/Posts/sync-File-Recovery.png)
+![File recovery](https://files.zachshirow.ir/Posts/sync-File-Recovery.png)
 
 **بازیابی فایل.** فایل های حذف شده را بازیابی کنید و به جزئیات ریز از فعالیت های همگام سازی دست پیدا کنید. 
 
@@ -56,7 +56,7 @@ tags:
 
 تیم خود را به یک محفظه ابسیدین به اشتراک گذاشته شده دعوت کنید. یادداشت ها در آن واحد در سراسر دستگاه های تیم تان بدون به خطر انداختن داده شرکت شما آپدیت می شوند. 
 
-![sync share dark](http://files.zachshirow.ir/Posts/sync-share-dark.png)
+![sync share dark](https://files.zachshirow.ir/Posts/sync-share-dark.png)
 
 ## همگام سازی را امروز شروع کنید.
 

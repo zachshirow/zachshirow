@@ -6,7 +6,7 @@ aliases:
 description: به عنوان کسی که در طرح سربازمعلمی 1402 ثبت نام کرده و قبول شده، توی این مقاله تجربیاتم در این خصوص رو باهاتون به اشتراک می گذارم.
 publishDate: 2023-08-02
 updatedDate: 2023-08-02
-image: http://files.zachshirow.ir/Posts/how%20soldier%20teacher.jpg
+image: https://files.zachshirow.ir/Posts/how%20soldier%20teacher.jpg
 tags:
   - بلاگ
 ---

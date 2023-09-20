@@ -6,7 +6,7 @@ aliases:
 description: ""
 publishDate: {{date}}
 updatedDate: {{date}}
-image: http://files.zachshirow.ir/Posts/
+image: https://files.zachshirow.ir/Posts/
 tags:
   - بلاگ
   - فریلنسری
@@ -16,6 +16,8 @@ tags:
   - بلینکیست-فارسی
   - مینیمالیسم
   - افزونه
+  - محصول
+  - خدمت
   - obsidian
   - notion
   - baserow

@@ -6,7 +6,7 @@ aliases:
 description: توی این مقاله قصد دارم که از دلایل اینکه چرا از نوشن به ابسیدین کوچ کردم باهاتون صحبت کنم.
 publishDate: 2022-09-19
 updatedDate: 2023-09-02
-image: http://files.zachshirow.ir/Posts/notion-obsidian.jpg
+image: https://files.zachshirow.ir/Posts/notion-obsidian.jpg
 tags:
   - بلاگ
   - notion

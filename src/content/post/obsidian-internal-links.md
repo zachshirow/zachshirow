@@ -5,7 +5,7 @@ aliases: لینک های داخلی در ابسیدین
 description: "ایده هایتان را به یکدیگر متصل کنید. مناسب برای کسانی که به  صورت خطی فکر نمیکنند. شبکه ای از ایده هایتان درست کنید و شگفت زده شوید."
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
-image: http://files.zachshirow.ir/Posts/Internal%20Links.jpg
+image: https://files.zachshirow.ir/Posts/Internal%20Links.jpg
 tags: 
 - بلاگ
 - obsidian
@@ -36,7 +36,7 @@ tags:
 
 زمانی که به هر فایلی که عضو فایل های پشتیبانی شده باشد و مارکداون نباشد می خواهید لینک کنید، باید اکستنشن فایل را هم در لینک اضافه کنید. به عنوان مثال برای لینک به یک عکس میتوانید بنویسید `[[Figure 1.png]]`. 
 
-![](http://files.zachshirow.ir/Posts/obsidian-internal-links/internal-link-1.png)
+![](https://files.zachshirow.ir/Posts/obsidian-internal-links/internal-link-1.png)
 
 ## لینک کردن به هدینگ یک یادداشت
 
@@ -64,7 +64,7 @@ tags:
 
 لینک به بلوک ها مختص به برنامه ابسیدین هستند و عضو فرمت استاندارد مارکداون نمیباشند. لینک هایی که به بلوک ها متصل شده باشند خارج از برنامه ابسیدین کار نمی کنند. 
 
-![](http://files.zachshirow.ir/Posts/obsidian-internal-links/internal-link-2.jpg)
+![](https://files.zachshirow.ir/Posts/obsidian-internal-links/internal-link-2.jpg)
 
 ## تغییر متن نمایشی یک لینک
 شما می توانید متنی که یک لینک نمایش می دهد را تغییر دهید. این قابلیت زمانی که میخواهید لینکی را در یک پاراگراف بدون استفاده از نام اصلی فایل استفاده کنید می تواند مفید باشد. از دو روش می توانید این قابلیت را فعال کنید: 
@@ -88,5 +88,5 @@ tags:
 برای پیش نمایش یک فایل لینک شده، دکمه `Ctrl` (یا `Cmd` در سیستم عامل های مک) را زمانی که نشانگر موس روی لینک قرار دارد فشار دهید. یک پیش نمایش از محتوای فایل در کنار نشانگر موس نمایش داده می شود. 
 
 
-![](http://files.zachshirow.ir/Posts/obsidian-internal-links/internal-link-2.jpg)
+![](https://files.zachshirow.ir/Posts/obsidian-internal-links/internal-link-2.jpg)
 

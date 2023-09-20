@@ -6,7 +6,7 @@ aliases:
 description: "توی این فعالیتی که استاد عباس پور از ما خواسته باید چهار تا از مهارت های حین تدریس که باید داشته باشیم رو بررسی کنیم."
 publishDate: 2023-09-18
 updatedDate: 2023-09-18
-image: http://files.zachshirow.ir/Posts/reviewing-4-while-teaching-skills.jpg
+image: https://files.zachshirow.ir/Posts/reviewing-4-while-teaching-skills.jpg
 tags:
   - بلاگ
   - آموزش-زبان-انگلیسی
