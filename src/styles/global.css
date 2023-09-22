@@ -77,7 +77,9 @@
 	}
 
 	
-
+	article .btn {
+		@apply text-gray-100 bg-accent p-2 rounded-md
+	}
 
 
 
