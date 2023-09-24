@@ -6,7 +6,7 @@ aliases:
   - obsidian search
 description: ابسیدین یکی از بهترین ابزار های جستجو رو داره تا بتونید تر کمترین زمان یادداشت هاتون رو پیدا کنید. طریقه استفاده ازش رو اینجا بخونید.
 publishDate: 2023-09-21
-updatedDate: 2023-09-21
+updatedDate: 2023-09-25
 image: https://files.zachshirow.ir/Posts/obsidian-search.jpg
 tags:
   - بلاگ
@@ -77,9 +77,9 @@ tags:
 | `line:`        | مطابقت دادن کلمات در یک خط.<p/>مثال: `line:(mix flour)`.                                                                                                                                                       |
 | `block:`       | مطابقت دادن کلمات در یک بلوک.<p/>مثال: `block:(dog cat)`.<p/>**نکته**: از اونجایی که `block:` نیاز داره که محتوای مارکداون در همه فایل ها رو پردازش کنه، ممکنه باعث بشه که پیدا کردن نتایج زمان بیشتری طول بکشه. |
 | `section:`     | مطابقت دادن کلمات در یک بخش (متن بین دوتا هدینگ).<p/>مثال: `section:(dog cat)`.                                                                                                                       |
-| `task:`        | پیدا کردن نتایج [[obsidian-basic-formating-sintax#تسک ها\|تسک]] به صورت بلوک به بلوک.<p/>مثال: `task:call`.                                                                                                   |
-| `task-todo:`   | پیدا کردن نتایج [[obsidian-basic-formating-sintax#تسک ها\|تسک]] تکمیل نشده به صورت بلوک به بلوک.<p/>مثال: `task-todo:call`.                                                                               |
-| `task-done:`   | پیدا کردن نتایج [[obsidian-basic-formating-sintax#تسک ها\|تسک]] تکمیل شده به صورت بلوک به بلوک.<p/>مثال: `task-done:call`.                                                                                  |
+| `task:`        | پیدا کردن نتایج [[obsidian-basic-formating-sintax#تسک\|تسک]] به صورت بلوک به بلوک.<p/>مثال: `task:call`.                                                                                                   |
+| `task-todo:`   | پیدا کردن نتایج [[obsidian-basic-formating-sintax#تسک\|تسک]] تکمیل نشده به صورت بلوک به بلوک.<p/>مثال: `task-todo:call`.                                                                               |
+| `task-done:`   | پیدا کردن نتایج [[obsidian-basic-formating-sintax#تسک\|تسک]] تکمیل شده به صورت بلوک به بلوک.<p/>مثال: `task-done:call`.                                                                                  |
 
 ## استفاده از عبارات منظم در جستجو
 
@@ -116,15 +116,3 @@ tags:
 <pre><code>```query
 embed OR search
 ```</code></pre>
-
-به عنوان مثال:
-
-> [!note] نکته
-> [[obsidian-publish|ابسیدین پابلیش]] از نتایج جستجوی جاسازی شده پشتیبانی نمی کند. برای دیدن این مثال، محفظه "کمک ابسیدین" رو به صورت محلی داخل ابسیدین باز کنید.
-
-```query
-embed OR search
-```
-
-
-
