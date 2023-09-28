@@ -1,0 +1,41 @@
+
+---
+const {slug} = Astro.props;
+
+---
+
+<graph-comment id="graphcomment" data-pageslug={slug}></graph-comment>
+
+<script type="text/javascript">
+
+class GraphComment extends HTMLElement {
+    constructor() {
+      super();
+
+      // Read the message from the data attribute.
+      const uid = this.dataset.postslug;
+      
+        /* - - - CONFIGURATION VARIABLES - - - */
+        var __semio__params = {
+            graphcommentId: "zachshirow", // make sure the id is yours
+            behaviour: {
+            uid: uid
+            },
+        }
+
+        /* - - - DON'T EDIT BELOW THIS LINE - - - */
+        function __semio__onload() {
+            __semio__gc_graphlogin(__semio__params)
+        }
+
+        (function() {
+            var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+            gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+        })();
+    }
+  }
+
+  customElements.define('graph-comment', GraphComment);
+  
+</script>

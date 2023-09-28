@@ -4,13 +4,14 @@ import type { CollectionEntry } from "astro:content";
 import BaseLayout from "./Base.astro";
 import BlogHero from "@/components/blog/Hero";
 import JoinTelegram from "@/components/layout/JoinTelegram";
-import Commenting from "@/components/layout/Commenting";
+// import Commenting from "@/components/layout/Commenting";
+import GraphComment from "@/components/layout/GraphComment";
 
 interface Props {
 	post: CollectionEntry<"post">;
 }
 
-
+const {slug} = Astro.params;
 const { post } = Astro.props;
 const {
 	data: { title, description, image, publishDate, updatedDate },
@@ -98,9 +99,10 @@ const { headings } = await post.render();
 			>
 				<slot />
 			</div>
-			<Commenting title={title} />
+			<!-- <Commenting title={title} /> -->
 			<!-- <div style="text-align: center" class="sender-form-field" data-sender-form-id="lmqjov83b6jvvbflgtx"></div> -->
 			<JoinTelegram />
+			<GraphComment slug={slug}
 		</article>
 	</div>
 	<button
