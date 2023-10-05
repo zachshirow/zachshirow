@@ -6,7 +6,7 @@ aliases:
 description: ""
 publishDate: {{date}}
 updatedDate: {{date}}
-image: https://files.zachshirow.ir/Posts/
+image: [[Title of my New Note]]
 tags:
   - بلاگ
   - فریلنسری
