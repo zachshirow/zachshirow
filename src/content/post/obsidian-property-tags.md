@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "ویژگی تگ ها در ابسیدین"
 aliases: 
 - ویژگی تگ ها در ابسیدین
