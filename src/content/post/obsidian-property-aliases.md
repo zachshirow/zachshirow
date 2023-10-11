@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "ویژگی ابسیدین aliases برای دادن عنوان های مختلف به هر یادداشت"
+title: "ویژگی ابسیدین aliases نام های مستعار"
 aliases: 
-- ویژگی ابسیدین aliases برای دادن عنوان های مختلف به هر یادداشت
+- ویژگی ابسیدین aliases نام های مستعار
 description: "اگه میخواید با نام های مختلفی به یک فایل ارجاع بدید، میتونید ویژگی aliases رو به یادداشت هاتون اضافه کنید."
 publishDate: 2023-10-11
 updatedDate: 2023-10-11
-image: https://files.zachshirow.ir/Posts/obsidian-property-aliases
+image: https://files.zachshirow.ir/Posts/obsidian-property-aliases.jpg
 tags:
   - بلاگ
   - obsidian
