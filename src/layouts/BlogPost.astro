@@ -1,11 +1,42 @@
 ---
 import type { CollectionEntry } from "astro:content";
 
+// related to backlinks
+// import type { GetStaticPaths } from "astro";
+// import { getCollection } from "astro:content";
+
 import BaseLayout from "./Base.astro";
 import BlogHero from "@/components/blog/Hero";
 import JoinTelegram from "@/components/layout/JoinTelegram";
 // import Commenting from "@/components/layout/Commenting";
 import GraphComment from "@/components/layout/GraphComment";
+
+
+// async function getBacklinks() {
+// 	const allPosts = await Astro.glob('../content/post/*.md',);
+// 	const backlinks = await allPosts.map((post) => {
+// 		if(post.rawContent.toString().includes(slug)){
+// 			return {
+// 				params: {
+// 					slug: post.file.
+// 				}, 
+// 				props: {
+// 					title: post.frontmatter.title, 
+// 					description: post.frontmatter.description
+// 				}
+// 			}
+// 		}
+// 		return;
+		
+// 	})
+// 	console.log(backlinks)
+// 	return backlinks
+// } 
+
+// const backlinks = getBacklinks()
+
+// console.log(backlinks)
+
 
 interface Props {
 	post: CollectionEntry<"post">;
@@ -23,6 +54,28 @@ const {
 const socialImage = image ?? "/social-card.jpg"
 const articleDate = updatedDate?.toISOString() ?? publishDate.toISOString();
 const { headings } = await post.render();
+
+
+// getting backlinks
+
+// export const getStaticPaths = (async () => {
+
+// const backLinks = await getCollection("post", (content) => {
+	
+// 	return content.body.toString().includes(slug) && content.data.draft !== true;
+// });
+
+// return backLinks.map((entry) => ({
+// 	params: { slug: entry.slug },
+// 	props: { 
+// 		title: entry.data.title
+// 	 },
+// }));
+
+// }) satisfies getStaticPaths
+
+// console.log(await backlinks)
+
 ---
 
 <script>
@@ -98,11 +151,16 @@ const { headings } = await post.render();
 				class="prose prose-lg prose-cactus my-12 prose-headings:font-semibold prose-headings:before:absolute prose-headings:before:-ms-7 prose-headings:before:text-accent prose-headings:before:content-['#'] prose-th:before:content-none prose-a:text-accent prose-table:text-right prose-table:text-sm"
 			>
 				<slot />
+				<!--<hr />
+				 <h2>بک لینک ها</h2>
+				<ul>
+					
+				</ul> -->
 			</div>
 			<!-- <Commenting title={title} /> -->
 			<!-- <div style="text-align: center" class="sender-form-field" data-sender-form-id="lmqjov83b6jvvbflgtx"></div> -->
 			<JoinTelegram />
-			<GraphComment slug={slug}
+			<GraphComment slug={slug} />
 		</article>
 	</div>
 	<button
