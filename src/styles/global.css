@@ -37,6 +37,14 @@
 	}
 
 
+	/* styling the toggles */
+	details {
+		@apply rounded-md p-2 bg-quote/5 mb-4
+	}
+	summary::marker {
+		@apply text-quote/40
+	}
+
 	/* .blog-body {
 		@apply 
 	} */

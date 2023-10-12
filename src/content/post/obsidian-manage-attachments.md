@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "بهترین راه برای مدیریت پیوست‌ها در ابسیدین"
-aliases: 
-- بهترین راه برای مدیریت پیوست‌ها در ابسیدین
-description: "صرف نظر از اینکه دارید در مورد چه چیزی مینویسید، احتمالش زیاد هست که فایل هایی مرتبط با اون نوشته خواهید داشت. مدیریت درست این پیوست های مرتبط امری حیاتیست."
+title: بهترین راه برای مدیریت پیوست‌ها در ابسیدین
+aliases:
+  - بهترین راه برای مدیریت پیوست‌ها در ابسیدین
+description: صرف نظر از اینکه دارید در مورد چه چیزی مینویسید، احتمالش زیاد هست که فایل هایی مرتبط با اون نوشته خواهید داشت. مدیریت درست این پیوست های مرتبط امری حیاتیست.
 publishDate: 2023-10-11
 updatedDate: 2023-10-11
 image: https://files.zachshirow.ir/Posts/obsidian-manage-attachments.jpg
@@ -11,7 +11,6 @@ tags:
   - بلاگ
   - obsidian
 ---
-
 
 از وقتی که من از پاییز 1401 [[notion-to-obsidian|شروع به یادداشت برداری و مدیریت کارهام با ابسیدین کردم]] متوجه شدم که یکی از نقاط قوت ابسیدین توی مدیریت فایل هاست. 
 
@@ -116,6 +115,4 @@ tags:
 <source src="https://zachshirow.storage.iran.liara.space/videos/obsidian-attachments.mp4" type="video/mp4" >
 Your browser does not support video tag.
 </video>
-
-
 
