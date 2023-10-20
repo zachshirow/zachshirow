@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "ویژگی تگ ها در ابسیدین"
-aliases: 
-- ویژگی تگ ها در ابسیدین
-description: "تگ ها کلیدواژه ها یا موضوعاتی هستند که بهتون کمک می کنند که سریعتر یادداشت هاتون رو پیدا کنید."
+title: ویژگی تگ ها در ابسیدین
+aliases:
+  - ویژگی تگ ها در ابسیدین
+description: تگ ها کلیدواژه ها یا موضوعاتی هستند که بهتون کمک می کنند که سریعتر یادداشت هاتون رو پیدا کنید.
 publishDate: 2023-10-11
 updatedDate: 2023-10-11
 image: https://files.zachshirow.ir/Posts/obsidian-property-tags.jpg
@@ -69,3 +69,7 @@ tags:
 
 
 
+---
+## بک لینک ها
+- [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
+- [[obsidian]]

@@ -1,8 +1,9 @@
 ---
 draft: false
-title: "افزونه auto note mover در ابسیدین"
-aliases: افزونه auto note mover در ابسیدین
-description: "در این پست بهتون یاد میدم که چجوری از افزونه auto note mover برای داشتن یک خزانه یادداشت های تمیز و مرتب استفاده کنید."
+title: افزونه auto note mover در ابسیدین
+aliases:
+  - افزونه auto note mover در ابسیدین
+description: در این پست بهتون یاد میدم که چجوری از افزونه auto note mover برای داشتن یک خزانه یادداشت های تمیز و مرتب استفاده کنید.
 publishDate: 2023-09-19
 updatedDate: 2023-09-22
 image: https://files.zachshirow.ir/Posts/obsidian-autonotemover.jpg
@@ -63,3 +64,10 @@ https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Ex
 ![obsidian-autonotemover03.png](https://files.zachshirow.ir/Posts/obsidian-autonotemover03.png)
 
 
+
+---
+## بک لینک ها
+- [[must-have-obsidian-plugins|حیاتی ترین افزونه های ابسیدین]]
+- [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]
+- [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
+- [[obsidian]]

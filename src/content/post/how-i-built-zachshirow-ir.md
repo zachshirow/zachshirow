@@ -112,3 +112,12 @@ https://github.com/zachshirow/zachshirow
 اگه می خواستید که وبسایتی رو با این ابزار بسازید می تونید یه سر به وبسایت استرو https://astro.build بزنید. اگر هم نیاز به راهنمایی داشتید می تونید از طریق ایمیل با خودم تماس بگیرید. 
 
 zachshirow@gmail.com
+
+
+
+---
+## بک لینک ها
+- [[teacher-training-in-mashhad|دوره تربیت سربازمعلمان در دانشگاه شهید بهشتی مشهد]]
+- [[obsidian-internal-links]]
+- [[obsidian-sharpen-your-thinking]]
+- [[obsidian]]

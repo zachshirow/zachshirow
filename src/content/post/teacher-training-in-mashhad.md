@@ -14,4 +14,8 @@ tags:
 
 
 
+---
+## بک لینک ها
+- [[how-i-built-zachshirow-ir|چجوری سایتم رو با astro و Obsidian ساختم]]
+- [[reviewing-4-while-teaching-skills|بررسی 4 تا از مهارت های حین تدریس]]
 

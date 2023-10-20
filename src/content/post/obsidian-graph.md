@@ -1,16 +1,16 @@
 ---
 draft: false
 title: گراف در ابسیدین
-aliases: 
-   - گراف در ابسیدین
-   - obsidian graph
+aliases:
+  - گراف در ابسیدین
+  - obsidian graph
 description: "نمای گراف در ابسیدین این امکان را به شما می دهد تا رابطه های بین یادداشت هایتان در خزانه ابسیدین تان را تجسم کنید. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
 image: https://files.zachshirow.ir/Posts/Obsidian%20Graph.jpg
-tags: 
-- بلاگ
-- obsidian
+tags:
+  - بلاگ
+  - obsidian
 ---
 
 
@@ -93,3 +93,10 @@ tags:
 در نمای گراف محلی همه تنظیماتی که برای نمای گراف در دسترس بودند را می توانید تغییر دهید. همینطور می توانید عمق گراف محلی را نیز تغییر دهید. هر سطح عمق، نوت های مرتبط با نوت های آشکار شده در عمق قبلی را نشان می دهد. برای کنترل عمق گراف محلی، اس اسلایدر بالای تنظیمات گراف محلی استفاده کنید. 
 
 ![obsidian-graph-02](https://files.zachshirow.ir/Posts/obsidian-graph-2.png)
+
+
+---
+## بک لینک ها
+- [[obsidian-search|قابلیت جستجو در ابسیدین]]
+- [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]
+- [[obsidian]]

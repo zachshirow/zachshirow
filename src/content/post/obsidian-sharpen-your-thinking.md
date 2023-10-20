@@ -2,15 +2,15 @@
 draft: false
 title: با ابسیدین تفکرت رو تیز کن
 aliases:
-   - با ابسیدین تفکرت رو تیز کن
-   - obsidian sharpen your thinking
-description: "ابسیدین (Obsidian) یک نرم افزار آفلاین شخصی و منعطف یادداشت برداری هست که با طریقه فکر کردن شما سازگار می شود."
+  - با ابسیدین تفکرت رو تیز کن
+  - obsidian sharpen your thinking
+description: ابسیدین (Obsidian) یک نرم افزار آفلاین شخصی و منعطف یادداشت برداری هست که با طریقه فکر کردن شما سازگار می شود.
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
 image: https://files.zachshirow.ir/Posts/Cover%20Gradient.jpg
-tags: 
-- بلاگ
-- obsidian
+tags:
+  - بلاگ
+  - obsidian
 ---
 
 
@@ -112,3 +112,20 @@ tags:
 اگه میخواید بیشتر در مورد من بدونید میتونید مقاله زیر رو بخونید. 
 
 [درباره من](/about)
+
+
+---
+## بک لینک ها
+- [[file-over-app|فایل به جای نرم افزار]]
+- [[how-i-built-zachshirow-ir|چجوری سایتم رو با astro و Obsidian ساختم]]
+- [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]
+- [[obsidian-canvas|کانواس در ابسیدین]]
+- [[obsidian-css-snippets|تکّه‌کد‌های سی‌اس‌اس در ابسیدین]]
+- [[obsidian-graph|گراف در ابسیدین]]
+- [[obsidian-internal-links|لینک های داخلی در ابسیدین]]
+- [[obsidian-plugins|افزونه های ابسیدین]]
+- [[obsidian-publish|ابسیدین پابلیش]]
+- [[obsidian-shortcutkeys|کلید های میانبر در ابسیدین برای افزایش بهره وری تان]]
+- [[obsidian-sync|ابسیدین سینک، همگام سازی در ابسیدین]]
+- [[notion-to-obsidian|چرا به عنوان یک ایرانی از نوشن به ابسیدین کوچ کردم؟]]
+- [[obsidian]]

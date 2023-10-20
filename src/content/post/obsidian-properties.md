@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "همه چیز در مورد properties یادداشت ها در ابسیدین"
-aliases: 
-- همه چیز در مورد properties یادداشت ها در ابسیدین
-description: "properties یا ویژگی های یادداشت ها در ابسیدین بهتون امکان میدهند که داده های خاصی رو به یادداشت هاتون اضافه کنید تا بهتر اونها رو مدیریت کنید."
+title: همه چیز در مورد properties یادداشت ها در ابسیدین
+aliases:
+  - همه چیز در مورد properties یادداشت ها در ابسیدین
+description: properties یا ویژگی های یادداشت ها در ابسیدین بهتون امکان میدهند که داده های خاصی رو به یادداشت هاتون اضافه کنید تا بهتر اونها رو مدیریت کنید.
 publishDate: 2023-09-24
 updatedDate: 2023-09-24
 image: https://files.zachshirow.ir/Posts/obsidian-properties.jpg
@@ -222,3 +222,13 @@ datetime: 2020-08-21T10:30:00
 |`image`|ببینید [Social media link previews > Image](https://help.obsidian.md/Obsidian+Publish/Social+media+link+previews#Image).|
 |`cover`|ببینید [Social media link previews > Image](https://help.obsidian.md/Obsidian+Publish/Social+media+link+previews#Image).|
 
+
+
+---
+## بک لینک ها
+- [[obsidian-autonotemover|افزونه auto note mover در ابسیدین]]
+- [[obsidian-css-snippets|تکّه‌کد‌های سی‌اس‌اس در ابسیدین]]
+- [[obsidian-dataview|معرفی افزونه dataview در ابسیدین و روش استفاده از اون]]
+- [[obsidian-property-aliases|ویژگی ابسیدین aliases نام های مستعار]]
+- [[obsidian-property-tags|ویژگی تگ ها در ابسیدین]]
+- [[obsidian]]

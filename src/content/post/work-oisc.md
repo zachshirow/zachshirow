@@ -45,3 +45,9 @@ tags:
 ![پله های دانشگاه مازندران - ساختمان اصلی اداری](https://files.zachshirow.ir/Posts/UniversityOfMazandaranStairs.jpg)
 
 عکس: راه پله ساختمان مرکزی دانشگاه مازندران
+
+
+---
+## بک لینک ها
+- [[middleschool-soldier-teacher|داستان زندگی من از متوسطه اول تا سربازمعلمی]]
+- [[freelancing|فریلنسری]]

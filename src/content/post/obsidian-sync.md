@@ -1,15 +1,15 @@
 ---
 draft: false
 title: ابسیدین سینک، همگام سازی در ابسیدین
-aliases: 
-   - ابسیدین سینک, همگام سازی در ابسیدین
+aliases:
+  - ابسیدین سینک، همگام سازی در ابسیدین
 description: "همه نوت هایتان، روی همه دستگاه هایتان. راه امن و بی خطر برای سینک کردن نوت های ابسیدین تان بین همه دستگاه ها و سیستم عامل های شما. "
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
 image: https://files.zachshirow.ir/Posts/Obsidian%20Sync.jpg
-tags: 
-- بلاگ
-- obsidian
+tags:
+  - بلاگ
+  - obsidian
 ---
 
 
@@ -67,3 +67,8 @@ tags:
 
 
 
+---
+## بک لینک ها
+- [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]
+- [[sync-notes-with-google-drive|همگام سازی فایل ها در ابسیدین با استفاده از گوگل درایو]]
+- [[obsidian]]

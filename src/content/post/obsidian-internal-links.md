@@ -1,14 +1,15 @@
 ---
 draft: false
 title: لینک های داخلی در ابسیدین
-aliases: لینک های داخلی در ابسیدین
-description: "ایده هایتان را به یکدیگر متصل کنید. مناسب برای کسانی که به  صورت خطی فکر نمیکنند. شبکه ای از ایده هایتان درست کنید و شگفت زده شوید."
+aliases:
+  - لینک های داخلی در ابسیدین
+description: ایده هایتان را به یکدیگر متصل کنید. مناسب برای کسانی که به  صورت خطی فکر نمیکنند. شبکه ای از ایده هایتان درست کنید و شگفت زده شوید.
 publishDate: 2023-06-05
 updatedDate: 2023-06-05
 image: https://files.zachshirow.ir/Posts/Internal%20Links.jpg
-tags: 
-- بلاگ
-- obsidian
+tags:
+  - بلاگ
+  - obsidian
 ---
 
 
@@ -90,3 +91,13 @@ tags:
 
 ![](https://files.zachshirow.ir/Posts/obsidian-internal-links/internal-link-2.jpg)
 
+
+---
+## بک لینک ها
+- [[how-i-built-zachshirow-ir|چجوری سایتم رو با astro و Obsidian ساختم]]
+- [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]
+- [[obsidian-graph|گراف در ابسیدین]]
+- [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
+- [[obsidian-property-aliases|ویژگی ابسیدین aliases نام های مستعار]]
+- [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]
+- [[obsidian]]

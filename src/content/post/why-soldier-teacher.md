@@ -41,3 +41,8 @@ tags:
 
 [[how-soldier-teacher|چجوری توی سال 1402 سربازمعلمی گرفتم]]
 
+
+---
+## بک لینک ها
+- [[how-soldier-teacher]]
+- [[teaching-english|آموزش زبان انگلیسی]]

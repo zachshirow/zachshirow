@@ -116,3 +116,13 @@ tags:
 <pre><code>```query
 embed OR search
 ```</code></pre>
+
+
+---
+## بک لینک ها
+- [[obsidian-basic-formating-sintax|آموزش استفاده از فرمت markdown در ابسیدین]]
+- [[obsidian-dataview|معرفی افزونه dataview در ابسیدین و روش استفاده از اون]]
+- [[obsidian-graph|گراف در ابسیدین]]
+- [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
+- [[obsidian-property-tags|ویژگی تگ ها در ابسیدین]]
+- [[obsidian]]

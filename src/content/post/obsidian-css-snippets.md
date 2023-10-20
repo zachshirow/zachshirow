@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "تکّه‌کد‌های سی‌اس‌اس در ابسیدین"
-aliases: 
-- تکّه‌کد‌های سی‌اس‌اس در ابسیدین
-description: "از تکّه‌کد‌های سی‌اس‌اس در ابسیدین میتونید برای شخصی سازی رابط کاربری و یادداشت هاتون استفاده کنید."
+title: تکّه‌کد‌های سی‌اس‌اس در ابسیدین
+aliases:
+  - تکّه‌کد‌های سی‌اس‌اس در ابسیدین
+description: از تکّه‌کد‌های سی‌اس‌اس در ابسیدین میتونید برای شخصی سازی رابط کاربری و یادداشت هاتون استفاده کنید.
 publishDate: 2023-10-11
 updatedDate: 2023-10-11
 image: https://files.zachshirow.ir/Posts/obsidian-css-snippets.jpg
@@ -50,4 +50,7 @@ zachshirow@gmail.com
 
 
 
-
+---
+## بک لینک ها
+- [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
+- [[obsidian]]

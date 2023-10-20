@@ -1,8 +1,9 @@
 ---
 draft: false
-title: "معرفی افزونه dataview در ابسیدین و روش استفاده از اون"
-aliases: معرفی افزونه dataview در ابسیدین و روش استفاده از اون
-description: "توی این مقاله بهتون یاد میدم تا چجوری از dataview در ابسیدین تون استفاده کنید تا لیست ها و جدول های داینامیک از یادداشت هاتون ایجاد کنید."
+title: معرفی افزونه dataview در ابسیدین و روش استفاده از اون
+aliases:
+  - معرفی افزونه dataview در ابسیدین و روش استفاده از اون
+description: توی این مقاله بهتون یاد میدم تا چجوری از dataview در ابسیدین تون استفاده کنید تا لیست ها و جدول های داینامیک از یادداشت هاتون ایجاد کنید.
 publishDate: 2023-09-27
 updatedDate: 2023-10-05
 image: https://files.zachshirow.ir/Posts/obsidian-dataview.jpg
@@ -422,4 +423,9 @@ SORT rows.file.ctime ASC
 
 
 
-
+---
+## بک لینک ها
+- [[must-have-obsidian-plugins|حیاتی ترین افزونه های ابسیدین]]
+- [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
+- [[obsidian-search|قابلیت جستجو در ابسیدین]]
+- [[obsidian]]
