@@ -19,8 +19,7 @@ tags:
   - محصول
   - خدمت
   - obsidian
-  - notion
-  - baserow
+  - nocodb
 ---
 
 
