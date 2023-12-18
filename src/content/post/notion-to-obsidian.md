@@ -62,7 +62,7 @@ https://obsidian.md/
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[front-end|برنامه نویسی فرانت اند]]
 - [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]
 - [[obsidian-manage-attachments|بهترین راه برای مدیریت پیوست‌ها در ابسیدین]]

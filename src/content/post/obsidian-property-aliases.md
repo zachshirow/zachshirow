@@ -88,6 +88,6 @@ aliases:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
 - [[obsidian]]

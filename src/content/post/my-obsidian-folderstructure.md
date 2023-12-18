@@ -95,7 +95,7 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[obsidian-autonotemover|افزونه auto note mover در ابسیدین]]
 - [[obsidian-manage-attachments|بهترین راه برای مدیریت پیوست‌ها در ابسیدین]]
 - [[obsidian]]

@@ -61,7 +61,7 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]
 - [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]
 - [[obsidian]]

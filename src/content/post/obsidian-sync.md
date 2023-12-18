@@ -68,7 +68,7 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]
 - [[sync-notes-with-google-drive|همگام سازی فایل ها در ابسیدین با استفاده از گوگل درایو]]
 - [[obsidian]]

@@ -36,6 +36,6 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[obsidian]]
 - [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]

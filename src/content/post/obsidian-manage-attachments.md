@@ -119,6 +119,6 @@ Your browser does not support video tag.
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]
 - [[obsidian]]

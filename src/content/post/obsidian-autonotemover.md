@@ -66,7 +66,7 @@ https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Ex
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[must-have-obsidian-plugins|حیاتی ترین افزونه های ابسیدین]]
 - [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]
 - [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]

@@ -116,7 +116,7 @@ zachshirow@gmail.com
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[teacher-training-in-mashhad|دوره تربیت سربازمعلمان در دانشگاه شهید بهشتی مشهد]]
 - [[obsidian-internal-links]]
 - [[obsidian-sharpen-your-thinking]]

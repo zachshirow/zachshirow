@@ -53,7 +53,7 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[must-have-obsidian-plugins|حیاتی ترین افزونه های ابسیدین]]
 - [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
 - [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]

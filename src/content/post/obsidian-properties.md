@@ -225,7 +225,7 @@ datetime: 2020-08-21T10:30:00
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[obsidian-autonotemover|افزونه auto note mover در ابسیدین]]
 - [[obsidian-css-snippets|تکّه‌کد‌های سی‌اس‌اس در ابسیدین]]
 - [[obsidian-dataview|معرفی افزونه dataview در ابسیدین و روش استفاده از اون]]

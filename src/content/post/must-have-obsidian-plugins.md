@@ -186,7 +186,7 @@ https://git.ir/codewithmosh-the-ultimate-git-course/
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[obsidian-autonotemover|افزونه auto note mover در ابسیدین]]
 - [[obsidian-dataview|معرفی افزونه dataview در ابسیدین و روش استفاده از اون]]
 - [[obsidian-plugins|افزونه های ابسیدین]]

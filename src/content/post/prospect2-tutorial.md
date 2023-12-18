@@ -1,8 +1,8 @@
 ---
 draft: true
-title: "تدریس ویدیویی کتاب prospect 2"
-aliases: تدریس ویدیویی کتاب prospect 2
-description: "توی این دوره ویدیویی به تدریس همه درس های کتاب prospect 2که کتاب رسمی برای مقطع هشتم هستش می پردازم. "
+title: "آموزش ویدیویی کتاب prospect 2"
+aliases: آموزش ویدیویی کتاب prospect 2
+description: "توی این دوره ویدیویی به آموزش همه درس های کتاب prospect 2که کتاب رسمی برای مقطع هشتم هستش می پردازم. "
 publishDate: 2023-12-14
 updatedDate: 2023-12-14
 image: https://files.zachshirow.ir/Posts/prospect2-tutorial.jpg

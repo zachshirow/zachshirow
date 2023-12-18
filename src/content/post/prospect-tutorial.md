@@ -1,10 +1,10 @@
 ---
-draft: true
+draft: false
 title: "تدریس ویدیویی زبان انگلیسی متوسطه اول کتاب های prospect"
 aliases: تدریس ویدیویی زبان انگلیسی متوسطه اول کتاب های prospect
 description: "توی این صفحه میتونید به دوره های آموزش زبان انگلیسی مقاطع هفتم تا نهم دسترسی پیدا کنید. "
-publishDate: 2023-12-14
-updatedDate: 2023-12-14
+publishDate: 2023-12-13
+updatedDate: 2023-12-13
 image: https://files.zachshirow.ir/Posts/prospect-tutorial.jpg
 tags:
   - بلاگ
@@ -19,9 +19,9 @@ tags:
 
 دانش آموزان گرامی، شما میتوانید از طریق لینک های زیر، آموزش مربوط به مقطع خودتون رو مشاهده کنید. 
 
-- [[prospect3-tutorial|تدریس ویدیویی کتاب prospect 3 - زکریا شیرمحمدلی]]
-- [[prospect2-tutorial|تدریس ویدیویی کتاب prospect 2 - زکریا شیرمحمدلی]]
-- [[prospect1-tutorial|تدریس ویدیویی کتاب prospect 1 - زکریا شیرمحمدلی]]
+- [[prospect3-tutorial|آموزش  ویدیویی کتاب prospect 3]]
+- [[prospect2-tutorial|آموزش ویدیویی کتاب prospect 2]]
+- [[prospect1-tutorial|آموزش ویدیویی کتاب prospect 1]]
 
 ---
 

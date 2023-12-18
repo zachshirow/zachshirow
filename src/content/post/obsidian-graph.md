@@ -96,7 +96,7 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[obsidian-search|قابلیت جستجو در ابسیدین]]
 - [[obsidian-sharpen-your-thinking|با ابسیدین تفکرت رو تیز کن]]
 - [[obsidian]]

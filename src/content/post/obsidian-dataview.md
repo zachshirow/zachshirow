@@ -424,7 +424,7 @@ SORT rows.file.ctime ASC
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[must-have-obsidian-plugins|حیاتی ترین افزونه های ابسیدین]]
 - [[obsidian-properties|همه چیز در مورد properties یادداشت ها در ابسیدین]]
 - [[obsidian-search|قابلیت جستجو در ابسیدین]]

@@ -74,7 +74,7 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[middleschool-soldier-teacher|داستان زندگی من از متوسطه اول تا سربازمعلمی]]
 - [[why-soldier-teacher|چرا تصمیم گرفتم سربازمعلم بشم]]
 - [[teaching-english|زبان انگلیسی]]

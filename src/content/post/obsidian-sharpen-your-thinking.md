@@ -115,7 +115,7 @@ tags:
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[file-over-app|فایل به جای نرم افزار]]
 - [[how-i-built-zachshirow-ir|چجوری سایتم رو با astro و Obsidian ساختم]]
 - [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]

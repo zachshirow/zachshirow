@@ -95,7 +95,7 @@ https://www.farsroid.com/foldersync-android/
 
 
 ---
-## بک لینک ها
+پشت‌وند‌ها
 - [[my-obsidian-folderstructure|ساختار پوشه های من در نرم افزار ابسیدین]]
 - [[obsidian-sync|ابسیدین سینک، همگام سازی در ابسیدین]]
 - [[obsidian]]
