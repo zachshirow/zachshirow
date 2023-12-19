@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "آموزش ویدیویی کتاب prospect 2"
 aliases: آموزش ویدیویی کتاب prospect 2
 description: "توی این دوره ویدیویی به آموزش همه درس های کتاب prospect 2که کتاب رسمی برای مقطع هشتم هستش می پردازم. "
@@ -14,12 +14,13 @@ tags:
 
 ویدیوی هر درس رو میتونید به صورت جداگانه تماشا کنید: 
 
-- درس اول 
-- درس دوم 
-- درس سوم 
-- درس چهارم 
-- درس پنجم 
-- درس ششم 
+- [درس اول My Nationality](https://aparat.com/v/wEBzZ)
+- درس دوم My Week
+- درس سوم My Abilities 
+- درس چهارم My Health
+- درس پنجم My City
+- درس ششم My Village
+- درس هفتم My Hobbies
 
 
 
