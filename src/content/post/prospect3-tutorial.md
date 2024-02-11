@@ -16,7 +16,7 @@ tags:
 
 - [درس اول Personality](https://aparat.com/v/ceh6t)
 - [درس دوم Travel](https://aparat.com/v/WzPBQ)
-- درس سوم Festivals and Ceremonies
+- [درس سوم Festivals and Ceremonies](https://www.aparat.com/v/8KT54)
 - درس چهارم Services
 - درس پنجم Media
 - درس ششم Health and Injuries

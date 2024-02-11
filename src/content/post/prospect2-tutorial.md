@@ -15,9 +15,9 @@ tags:
 ویدیوی هر درس رو میتونید به صورت جداگانه تماشا کنید: 
 
 - [درس اول My Nationality](https://aparat.com/v/wEBzZ)
-- درس دوم My Week
-- درس سوم My Abilities 
-- درس چهارم My Health
+- [درس دوم My Week](https://www.aparat.com/v/0kPJb)
+- [درس سوم My Abilities ](https://www.aparat.com/v/eH8K2)
+- [درس چهارم My Health](https://www.aparat.com/v/5r4e7)
 - درس پنجم My City
 - درس ششم My Village
 - درس هفتم My Hobbies
