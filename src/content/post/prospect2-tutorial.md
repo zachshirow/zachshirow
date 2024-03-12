@@ -19,7 +19,7 @@ tags:
 - [درس سوم My Abilities ](https://www.aparat.com/v/eH8K2)
 - [درس چهارم My Health](https://www.aparat.com/v/5r4e7)
 - [درس پنجم My City](https://www.aparat.com/v/UFX2m)
-- درس ششم My Village
+- [درس ششم My Village](https://aparat.com/v/m57dS)
 - درس هفتم My Hobbies
 
 
