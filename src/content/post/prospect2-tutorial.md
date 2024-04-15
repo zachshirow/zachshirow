@@ -20,7 +20,7 @@ tags:
 - [درس چهارم My Health](https://www.aparat.com/v/5r4e7)
 - [درس پنجم My City](https://www.aparat.com/v/UFX2m)
 - [درس ششم My Village](https://aparat.com/v/m57dS)
-- درس هفتم My Hobbies
+- [درس هفتم My Hobbies](https://aparat.com/v/kS6KF)
 
 
 
