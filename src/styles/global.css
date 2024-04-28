@@ -61,6 +61,10 @@
 		padding-bottom: 5px;
 	}
 
+	article ul,
+	article ol {
+		@apply mr-5
+	}
 
 
 	article a[href^="http"]::after,
