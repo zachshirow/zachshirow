@@ -37,10 +37,12 @@
 	}
 
 
+
 	/* styling the toggles */
 	details {
 		@apply rounded-md p-2 bg-quote/5 mb-4
 	}
+
 	summary::marker {
 		@apply text-quote/40
 	}
@@ -55,15 +57,14 @@
 
 	article blockquote {
 		padding-right: 10px;
-		padding-top: 5px; 
+		padding-top: 5px;
 		padding-bottom: 5px;
 	}
-	
-	
+
+
 
 	article a[href^="http"]::after,
-	article a[href^="https://"]::after
-	{
+	article a[href^="https://"]::after {
 		content: "";
 		width: 11px;
 		height: 11px;
@@ -76,15 +77,16 @@
 		display: inline-block;
 	}
 
-	.task-list-item, input[type="checkbox"] { 
+	.task-list-item,
+	input[type="checkbox"] {
 		list-style-type: none;
 	}
-	
+
 	blockquote.callout {
-		padding: 10px; 
+		padding: 10px;
 	}
 
-	
+
 	article .btn {
 		@apply text-gray-100 bg-accent p-2 rounded-md
 	}
