@@ -20,3 +20,4 @@ tags:
 ---
 پشت‌وند‌ها
 - [[notion-to-obsidian|چرا به عنوان یک ایرانی از نوشن به ابسیدین کوچ کردم؟]]
+- [[how-i-built-zachshirow-ir|چجوری سایتم رو با astro و Obsidian ساختم]]
