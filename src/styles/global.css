@@ -36,7 +36,9 @@
 		direction: rtl;
 	}
 
-
+	p:has("%%") {
+		display: none !important;
+	}
 
 	/* styling the toggles */
 	details {

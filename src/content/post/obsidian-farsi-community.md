@@ -24,4 +24,3 @@ https://obsidian.md/community
 ---
 
 پشت‌وند‌ها
-- [[obsidian|ابسیدین]]

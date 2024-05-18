@@ -28,4 +28,18 @@ tags:
 ---
 
 پشت‌وند‌ها
-- 
+
+%% run start
+```ts fold
+let page = file.basename;
+
+let results = dv.markdownList(dv.pages(`[[${page}]]`).map(page => page.file.link))
+
+console.log(results)
+
+return results
+
+``` 
+%%
+
+%% run end %%
